@@ -13,23 +13,6 @@ Train the Model: Use the LSTMTrainer class to train your LSTM model.
 Evaluate the Model: Use the provided methods to evaluate the model's performance.
 Visualize the Results: Generate plots to visualize the actual vs. predicted values.
 
-lstm-time-series-forecasting/
-│
-├── data/
-│   └── your_dataset.csv
-├── models/
-│   └── model.h5
-├── src/
-│   ├── data_preprocessing.py
-│   ├── model_training.py
-│   ├── model_evaluation.py
-│   └── visualization.py
-├── notebooks/
-│   └── example_notebook.ipynb
-├── requirements.txt
-└── README.md
-
-
 
 # Dataset
 Ensure all dataset is in a CSV format with a Date column and at least one feature column, such as Close for stock prices. Place your dataset in the data directory.
