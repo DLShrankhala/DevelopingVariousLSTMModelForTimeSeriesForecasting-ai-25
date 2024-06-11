@@ -52,7 +52,7 @@ class Data:
             self.dataframe['Date'] = pd.to_datetime(self.dataframe['Date'])
             plt.figure(figsize=(14, 7))
             sns.lineplot(data=self.dataframe, x='Date', y=y_label)
-            plt.title(f'{y_label} Stock Values vs. Date')
+            plt.title(f'{y_label} Stock Values over the Years')
             plt.xlabel('Date')
             plt.ylabel(f'{y_label} Stock Value')
             plt.show()
