@@ -24,5 +24,5 @@ def main():
     # Save the model
     trainer.save_model('trained_model.pkl')
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
