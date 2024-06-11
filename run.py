@@ -3,6 +3,7 @@ from Core.config import Column
 from Core.model import LSTM_Trainer
 
 def main():
+    # Initialize Data object
     data = Data()
     data.read('Data/AAPL.csv')
     data.check_null_values()
@@ -14,15 +15,14 @@ def main():
     data.visualize(Column.OPEN.value)
     data.visualize(Column.CLOSE.value)
 
-    train_data, val_data, test_data = data.split_data(scaled_data)
-    x_train, y_train = data.prepare_data(train_data)
-    x_val, y_val = data.prepare_data(val_data)
-    x_test, y_test = data.prepare_data(test_data)
-
-    trainer = LSTM_Trainer(x_train, y_train, x_val, y_val, x_test, y_test, scaler)
+    # Initialize LSTM Trainer
+    trainer = LSTM_Trainer(data.dataframe, data.scaler)
     trainer.build_and_train_lstm()
     trainer.predict_and_plot()
     trainer.evaluate_model()
 
-if __name__ == "__main__":
+    # Save the model
+    trainer.save_model('trained_model.pkl')
+
+if _name_ == "_main_":
     main()
