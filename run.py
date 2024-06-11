@@ -4,7 +4,7 @@ from Core.model import LSTM_Trainer
 
 def main():
     data = Data()
-    data.read('AAPL.csv')
+    data.read('Data/AAPL.csv')
     data.check_null_values()
     data.clean_data()
     print(Column.OPEN.value)
