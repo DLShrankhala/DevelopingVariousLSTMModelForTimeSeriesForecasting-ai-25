@@ -1,21 +1,28 @@
 from Core.data import Data
 from Core.config import Column
-from Core.model import LSTM_Trainer
+from Core.model import StockPricePredictor
+
+#data.py file calls
 
 data = Data()
-data.read('Data/BAJAJ-AUTO.csv')
+data.read('Data/5PAISA.csv')
 data.check_null_values()
 data.clean_data()
 print(Column.OPEN.value)
 data.print_head()
 data.print_description()
 data.normalize()
-data.visualize(Column.OPEN.value)
 data.visualize(Column.CLOSE.value)
 
-trainer = LSTM_Trainer(data.dataframe, data.scaler)
-trainer.build_and_train_lstm()
-trainer.predict_and_plot()
-trainer.evaluate_model()
-trainer.save_model('PreTrainedModel/BAJAj-AUTO_lstm_model.h5')
-trainer.load_model('PreTrainedModel/BAJAj-AUTO_lstm_model.h5')
+#model.py file calls
+
+predictor = StockPricePredictor(data.dataframe, data.scaler)
+sequence_length = 10
+sequences, targets = predictor.create_sequences(sequence_length=sequence_length)
+predictor.prepare_data(sequences, targets, sequence_length)
+predictor.build_model(sequence_length)
+history = predictor.train_model()
+predictor.visualize_predictions()
+predictor.save_model('PreTrainedModel/5PAISA_lstm_stock_model.pkl')
+predictor.load_model('PreTrainedModel/5PAISA_lstm_stock_model.pkl')
+results = predictor.run_predictions_and_evaluation()

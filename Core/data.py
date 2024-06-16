@@ -29,16 +29,6 @@ class Data:
         final_shape = self.dataframe.shape
         print(f"Data cleaned: {initial_shape[0] - final_shape[0]} rows removed.")
 
-    def print_head(self):
-        """Prints the head of the dataframe."""
-        print("Head of the DataFrame:")
-        print(self.dataframe.head())
-
-    def print_description(self):
-        """Prints the description of the dataframe."""
-        print("\nDescription of the DataFrame:")
-        print(self.dataframe.describe())
-
     def normalize(self):
         """Normalizes numeric columns in the dataframe."""
         numeric_cols = self.dataframe.select_dtypes(include=['float64', 'int64']).columns
@@ -52,10 +42,19 @@ class Data:
             self.dataframe['Date'] = pd.to_datetime(self.dataframe['Date'])
             plt.figure(figsize=(14, 7))
             sns.lineplot(data=self.dataframe, x='Date', y=y_label)
-            plt.title(f'{y_label} Stock Values over the Years')
+            plt.title('close Stock Values vs. Date')
             plt.xlabel('Date')
             plt.ylabel(f'{y_label} Stock Value')
             plt.show()
         else:
             print(f"Dataframe does not contain 'Date' and '{y_label}' columns.")
 
+    def print_head(self):
+        """Prints the head of the dataframe."""
+        print("Head of the DataFrame:")
+        print(self.dataframe.head())
+
+    def print_description(self):
+        """Prints the description of the dataframe."""
+        print("\nDescription of the DataFrame:")
+        print(self.dataframe.describe())

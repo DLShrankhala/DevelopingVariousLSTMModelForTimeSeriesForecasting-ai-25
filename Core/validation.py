@@ -7,9 +7,9 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 
 # Load the saved model
-model = load_model('PreTrainedModel/BAJAj-AUTO_lstm_model.h5')
+model = load_model('PreTrainedModel/5PAISA_lstm_model.h5')
 
-data = pd.read_csv('Data/BAJAJ-AUTO.csv')  # Load your test data
+data = pd.read_csv('Data/5PAISA.csv')  # Load your test data
 
 feature_col = 'Close'
 look_back = 60

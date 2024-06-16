@@ -2,10 +2,10 @@ from enum import Enum
 
 
 class Column(Enum):
-    DATE = 'date'
-    OPEN = 'open'
-    CLOSE = 'close'
-    HIGH = 'high'
-    LOW = 'low'
+    DATE = 'Date'
+    OPEN = 'Open'
+    CLOSE = 'Close'
+    HIGH = 'High'
+    LOW = 'Low'
     VOLUME = 'Volume'
-    ADJ_CLOSE = "adj_close"
+    ADJ_CLOSE = "Adj close"
