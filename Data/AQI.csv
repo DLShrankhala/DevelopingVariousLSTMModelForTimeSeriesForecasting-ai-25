@@ -1,0 +1,2001 @@
+Date,Country,Status,AQI Value
+15-06-2023,Uzbekistan,Moderate,93
+15-06-2023,Vatican,Good,34
+15-06-2023,Venezuela,Good,1
+15-06-2023,Vietnam,Moderate,96
+15-06-2023,Zambia,Unhealthy,167
+22-06-2023,Albania,Good,41
+22-06-2023,Algeria,Good,25
+22-06-2023,Andorra,Good,17
+22-06-2023,Angola,Unhealthy for Sensitive Groups,126
+22-06-2023,Argentina,Moderate,66
+22-06-2023,Armenia,Good,27
+22-06-2023,Australia,Good,50
+22-06-2023,Austria,Moderate,51
+22-06-2023,Azerbaijan,Good,50
+22-06-2023,Bahrain,Moderate,82
+22-06-2023,Bangladesh,Unhealthy for Sensitive Groups,101
+22-06-2023,Belarus,Moderate,63
+22-06-2023,Belgium,Good,47
+22-06-2023,Belize,Good,3
+22-06-2023,Bermuda,Good,6
+22-06-2023,Bolivia,Unhealthy for Sensitive Groups,115
+22-06-2023,Bosnia and Herzegovina,Moderate,87
+22-06-2023,Brazil,Moderate,85
+22-06-2023,Brunei,Good,10
+22-06-2023,Bulgaria,Good,25
+22-06-2023,Burkina Faso,Unhealthy for Sensitive Groups,119
+22-06-2023,Cambodia,Good,15
+22-06-2023,Canada,Unhealthy for Sensitive Groups,108
+22-06-2023,Cape Verde,Good,38
+22-06-2023,Cayman Islands,Good,12
+22-06-2023,Chile,Unhealthy for Sensitive Groups,138
+22-06-2023,China,Unhealthy,157
+22-06-2023,Colombia,Moderate,59
+22-06-2023,Costa Rica,Good,19
+22-06-2023,Croatia,Good,47
+22-06-2023,Cyprus,Moderate,54
+22-06-2023,Czech Republic,Moderate,67
+22-06-2023,Denmark,Good,25
+22-06-2023,Dominican Republic,Good,19
+22-06-2023,Ecuador,Good,33
+22-06-2023,El Salvador,Moderate,88
+22-06-2023,Estonia,Good,48
+22-06-2023,Ethiopia,Unhealthy,163
+22-06-2023,Finland,Moderate,64
+22-06-2023,France,Moderate,62
+22-06-2023,French Guiana,Good,11
+22-06-2023,Gabon,Unhealthy for Sensitive Groups,103
+22-06-2023,Georgia,Good,47
+22-06-2023,Germany,Moderate,72
+22-06-2023,Ghana,Moderate,65
+22-06-2023,Gibraltar,Good,17
+22-06-2023,Greece,Good,48
+22-06-2023,Grenada,Good,10
+22-06-2023,Guadeloupe,Good,38
+22-06-2023,Guam,Good,4
+22-06-2023,Guatemala,Moderate,61
+22-06-2023,Honduras,Good,21
+22-06-2023,Hong Kong,Good,49
+22-06-2023,Iceland,Good,15
+22-06-2023,India,Very Unhealthy,207
+22-06-2023,Indonesia,Unhealthy for Sensitive Groups,117
+22-06-2023,Iran,Unhealthy for Sensitive Groups,127
+22-06-2023,Ireland,Good,37
+22-06-2023,Israel,Moderate,77
+22-06-2023,Italy,Moderate,62
+22-06-2023,Ivory Coast,Good,21
+22-06-2023,Japan,Moderate,66
+22-06-2023,Jersey,Moderate,88
+22-06-2023,Jordan,Good,27
+22-06-2023,Kazakhstan,Very Unhealthy,224
+22-06-2023,Kenya,Unhealthy for Sensitive Groups,109
+22-06-2023,Kosovo,Moderate,62
+22-06-2023,Kuwait,Moderate,84
+22-06-2023,Kyrgyzstan,Moderate,52
+22-06-2023,Laos,Good,24
+22-06-2023,Latvia,Moderate,63
+22-06-2023,Lebanon,Unhealthy for Sensitive Groups,108
+22-06-2023,Liberia,Good,32
+22-06-2023,Liechtenstein,Good,38
+22-06-2023,Lithuania,Moderate,72
+22-06-2023,Luxembourg,Good,44
+22-06-2023,Macao,Good,42
+22-06-2023,Macedonia,Moderate,66
+22-06-2023,Madagascar,Moderate,97
+22-06-2023,Malaysia,Moderate,79
+22-06-2023,Malta,Moderate,51
+22-06-2023,Martinique,Moderate,64
+22-06-2023,Mexico,Unhealthy for Sensitive Groups,132
+22-06-2023,Moldova,Good,30
+22-06-2023,Monaco,Moderate,63
+22-06-2023,Mongolia,Moderate,55
+22-06-2023,Montenegro,Moderate,62
+22-06-2023,Myanmar,Moderate,60
+22-06-2023,Nepal,Moderate,65
+22-06-2023,Netherlands,Moderate,74
+22-06-2023,New Zealand,Good,35
+22-06-2023,Nigeria,Moderate,78
+22-06-2023,Norway,Good,49
+22-06-2023,Pakistan,Unhealthy for Sensitive Groups,101
+22-06-2023,Palestinian Territory,Moderate,75
+22-06-2023,Peru,Moderate,62
+22-06-2023,Philippines,Moderate,55
+22-06-2023,Poland,Moderate,81
+22-06-2023,Portugal,Good,28
+22-06-2023,Puerto Rico,Good,28
+22-06-2023,Qatar,Moderate,59
+22-06-2023,Reunion,Good,13
+22-06-2023,Romania,Moderate,76
+22-06-2023,Russia,Moderate,75
+22-06-2023,San Marino,Moderate,53
+22-06-2023,Saudi Arabia,Good,46
+22-06-2023,Senegal,Moderate,52
+22-06-2023,Serbia,Moderate,90
+22-06-2023,Singapore,Good,38
+22-06-2023,Slovakia,Good,50
+22-06-2023,Slovenia,Moderate,67
+22-06-2023,South Africa,Unhealthy,167
+22-06-2023,South Korea,Moderate,74
+22-06-2023,Spain,Moderate,79
+22-06-2023,Sri Lanka,Moderate,81
+22-06-2023,Sweden,Good,49
+22-06-2023,Switzerland,Good,31
+22-06-2023,Taiwan,Moderate,57
+22-06-2023,Tajikistan,Moderate,67
+22-06-2023,Thailand,Moderate,88
+22-06-2023,Togo,Unhealthy for Sensitive Groups,121
+22-06-2023,Trinidad and Tobago,Good,32
+22-06-2023,Turkey,Unhealthy for Sensitive Groups,101
+22-06-2023,Turkmenistan,Unhealthy for Sensitive Groups,137
+22-06-2023,Uganda,Unhealthy for Sensitive Groups,116
+22-06-2023,Ukraine,Moderate,71
+22-06-2023,United Arab Emirates,Moderate,64
+22-06-2023,United Kingdom of Great Britain and Northern Ireland,Moderate,51
+22-06-2023,United States of America,Moderate,99
+22-06-2023,Uzbekistan,Good,41
+22-06-2023,Vatican,Good,50
+22-06-2023,Venezuela,Good,4
+22-06-2023,Vietnam,Moderate,76
+22-06-2023,Zambia,Moderate,83
+29-06-2023,Albania,Moderate,52
+29-06-2023,Algeria,Moderate,55
+29-06-2023,Andorra,Moderate,65
+29-06-2023,Angola,Unhealthy for Sensitive Groups,132
+29-06-2023,Argentina,Good,40
+29-06-2023,Armenia,Good,42
+29-06-2023,Australia,Good,38
+29-06-2023,Austria,Good,31
+29-06-2023,Azerbaijan,Good,49
+29-06-2023,Bahrain,Unhealthy for Sensitive Groups,142
+29-06-2023,Bangladesh,Moderate,89
+29-06-2023,Belarus,Good,32
+29-06-2023,Belgium,Moderate,94
+29-06-2023,Belize,Good,15
+29-06-2023,Bermuda,Good,10
+29-06-2023,Bolivia,Moderate,52
+29-06-2023,Bosnia and Herzegovina,Good,47
+29-06-2023,Brazil,Unhealthy for Sensitive Groups,122
+29-06-2023,Brunei,Good,14
+29-06-2023,Bulgaria,Good,20
+29-06-2023,Burkina Faso,Unhealthy for Sensitive Groups,113
+29-06-2023,Cambodia,Good,32
+29-06-2023,Canada,Unhealthy for Sensitive Groups,136
+29-06-2023,Cape Verde,Good,41
+29-06-2023,Cayman Islands,Good,20
+29-06-2023,Chile,Unhealthy,197
+29-06-2023,China,Unhealthy for Sensitive Groups,126
+29-06-2023,Colombia,Moderate,61
+29-06-2023,Costa Rica,Good,9
+29-06-2023,Croatia,Good,27
+29-06-2023,Cyprus,Moderate,78
+29-06-2023,Czech Republic,Good,50
+29-06-2023,Denmark,Good,28
+29-06-2023,Dominican Republic,Good,39
+29-06-2023,Ecuador,Good,39
+29-06-2023,El Salvador,Moderate,58
+29-06-2023,Estonia,Good,39
+29-06-2023,Ethiopia,Unhealthy,154
+29-06-2023,Finland,Moderate,57
+29-06-2023,France,Unhealthy for Sensitive Groups,145
+29-06-2023,French Guiana,Good,13
+29-06-2023,Gabon,Unhealthy,186
+29-06-2023,Georgia,Moderate,60
+29-06-2023,Germany,Moderate,67
+29-06-2023,Ghana,Moderate,56
+29-06-2023,Gibraltar,Moderate,56
+29-06-2023,Greece,Moderate,53
+29-06-2023,Grenada,Good,8
+29-06-2023,Guadeloupe,Good,13
+29-06-2023,Guam,Good,8
+29-06-2023,Guatemala,Moderate,68
+29-06-2023,Honduras,Good,22
+29-06-2023,Hong Kong,Good,42
+29-06-2023,Iceland,Good,15
+29-06-2023,India,Unhealthy,161
+29-06-2023,Indonesia,Moderate,80
+29-06-2023,Iran,Unhealthy for Sensitive Groups,149
+29-06-2023,Ireland,Good,15
+29-06-2023,Israel,Moderate,77
+29-06-2023,Italy,Moderate,70
+29-06-2023,Ivory Coast,Good,25
+29-06-2023,Japan,Moderate,92
+29-06-2023,Jersey,Good,20
+29-06-2023,Jordan,Good,30
+29-06-2023,Kazakhstan,Unhealthy,182
+29-06-2023,Kenya,Moderate,80
+29-06-2023,Kosovo,Good,33
+29-06-2023,Kuwait,Moderate,61
+29-06-2023,Kyrgyzstan,Good,43
+29-06-2023,Laos,Good,45
+29-06-2023,Latvia,Good,22
+29-06-2023,Lebanon,Unhealthy for Sensitive Groups,121
+29-06-2023,Liberia,Good,35
+29-06-2023,Liechtenstein,Good,33
+29-06-2023,Lithuania,Good,40
+29-06-2023,Luxembourg,Good,44
+29-06-2023,Macao,Good,42
+29-06-2023,Macedonia,Good,23
+29-06-2023,Madagascar,Moderate,66
+29-06-2023,Malaysia,Moderate,64
+29-06-2023,Malta,Good,44
+29-06-2023,Martinique,Good,49
+29-06-2023,Mexico,Unhealthy for Sensitive Groups,107
+29-06-2023,Moldova,Good,9
+29-06-2023,Monaco,Moderate,66
+29-06-2023,Mongolia,Good,32
+29-06-2023,Montenegro,Good,32
+29-06-2023,Myanmar,Moderate,52
+29-06-2023,Nepal,Good,30
+29-06-2023,Netherlands,Moderate,69
+29-06-2023,New Zealand,Good,41
+29-06-2023,Nigeria,Moderate,94
+29-06-2023,Norway,Good,36
+29-06-2023,Pakistan,Moderate,66
+29-06-2023,Palestinian Territory,Moderate,56
+29-06-2023,Peru,Moderate,57
+29-06-2023,Philippines,Good,38
+29-06-2023,Poland,Moderate,66
+29-06-2023,Portugal,Good,25
+29-06-2023,Puerto Rico,Good,4
+29-06-2023,Qatar,Moderate,86
+29-06-2023,Reunion,Good,27
+29-06-2023,Romania,Moderate,72
+29-06-2023,Russia,Moderate,65
+29-06-2023,San Marino,Moderate,53
+29-06-2023,Saudi Arabia,Moderate,55
+29-06-2023,Senegal,Moderate,53
+29-06-2023,Serbia,Moderate,63
+29-06-2023,Singapore,Good,31
+29-06-2023,Slovakia,Good,29
+29-06-2023,Slovenia,Good,25
+29-06-2023,South Africa,Unhealthy for Sensitive Groups,126
+29-06-2023,South Korea,Moderate,71
+29-06-2023,Spain,Unhealthy for Sensitive Groups,118
+29-06-2023,Sri Lanka,Good,48
+29-06-2023,Sweden,Good,39
+29-06-2023,Switzerland,Good,37
+29-06-2023,Taiwan,Moderate,98
+29-06-2023,Tajikistan,Moderate,82
+29-06-2023,Thailand,Moderate,79
+29-06-2023,Togo,Moderate,69
+29-06-2023,Trinidad and Tobago,Good,18
+29-06-2023,Turkey,Unhealthy,185
+29-06-2023,Turkmenistan,Moderate,89
+29-06-2023,Uganda,Unhealthy,159
+29-06-2023,Ukraine,Moderate,59
+29-06-2023,United Arab Emirates,Unhealthy for Sensitive Groups,116
+29-06-2023,United Kingdom of Great Britain and Northern Ireland,Good,49
+29-06-2023,United States of America,Very Unhealthy,249
+29-06-2023,Uzbekistan,Moderate,53
+29-06-2023,Vatican,Moderate,55
+29-06-2023,Venezuela,Good,1
+29-06-2023,Vietnam,Moderate,99
+29-06-2023,Zambia,Moderate,77
+06-07-2023,Albania,Good,18
+06-07-2023,Algeria,Moderate,68
+06-07-2023,Andorra,Good,16
+06-07-2023,Angola,Unhealthy for Sensitive Groups,111
+06-07-2023,Argentina,Good,20
+06-07-2023,Armenia,Good,45
+06-07-2023,Australia,Good,41
+06-07-2023,Austria,Good,25
+06-07-2023,Azerbaijan,Good,49
+06-07-2023,Bahrain,Unhealthy for Sensitive Groups,134
+06-07-2023,Bangladesh,Moderate,92
+06-07-2023,Belarus,Moderate,67
+06-07-2023,Belgium,Good,35
+06-07-2023,Belize,Good,22
+06-07-2023,Bermuda,Good,5
+06-07-2023,Bolivia,Moderate,64
+06-07-2023,Bosnia and Herzegovina,Moderate,76
+06-07-2023,Brazil,Unhealthy for Sensitive Groups,120
+06-07-2023,Brunei,Good,10
+06-07-2023,Bulgaria,Good,26
+06-07-2023,Burkina Faso,Moderate,100
+06-07-2023,Cambodia,Good,48
+06-07-2023,Canada,Moderate,79
+06-07-2023,Cape Verde,Good,47
+06-07-2023,Cayman Islands,Good,1
+06-07-2023,Chile,Unhealthy,175
+06-07-2023,China,Unhealthy for Sensitive Groups,136
+06-07-2023,Colombia,Moderate,61
+06-07-2023,Costa Rica,Good,20
+06-07-2023,Croatia,Good,17
+06-07-2023,Cyprus,Moderate,78
+06-07-2023,Czech Republic,Moderate,58
+06-07-2023,Denmark,Good,16
+06-07-2023,Dominican Republic,Good,49
+06-07-2023,Ecuador,Good,39
+06-07-2023,Egypt,Moderate,90
+06-07-2023,El Salvador,Moderate,75
+06-07-2023,Estonia,Good,17
+06-07-2023,Ethiopia,Unhealthy for Sensitive Groups,144
+06-07-2023,Finland,Good,29
+06-07-2023,France,Moderate,52
+06-07-2023,French Guiana,Good,7
+06-07-2023,Gabon,Unhealthy for Sensitive Groups,137
+06-07-2023,Georgia,Good,44
+06-07-2023,Germany,Good,44
+06-07-2023,Ghana,Moderate,57
+06-07-2023,Gibraltar,Moderate,52
+06-07-2023,Greece,Moderate,51
+06-07-2023,Grenada,Good,40
+06-07-2023,Guadeloupe,Good,29
+06-07-2023,Guam,Good,2
+06-07-2023,Guatemala,Moderate,59
+06-07-2023,Honduras,Good,23
+06-07-2023,Hong Kong,Good,39
+06-07-2023,Iceland,Good,7
+06-07-2023,India,Unhealthy,158
+06-07-2023,Indonesia,Moderate,93
+06-07-2023,Iran,Unhealthy,175
+06-07-2023,Ireland,Good,17
+06-07-2023,Israel,Moderate,70
+06-07-2023,Italy,Good,48
+06-07-2023,Ivory Coast,Good,21
+06-07-2023,Japan,Unhealthy for Sensitive Groups,106
+06-07-2023,Jersey,Good,35
+06-07-2023,Jordan,Good,34
+06-07-2023,Kazakhstan,Very Unhealthy,226
+06-07-2023,Kenya,Moderate,87
+06-07-2023,Kosovo,Good,29
+06-07-2023,Kuwait,Moderate,96
+06-07-2023,Kyrgyzstan,Good,43
+06-07-2023,Laos,Good,28
+06-07-2023,Latvia,Good,21
+06-07-2023,Lebanon,Moderate,92
+06-07-2023,Liberia,Good,39
+06-07-2023,Liechtenstein,Good,25
+06-07-2023,Lithuania,Moderate,54
+06-07-2023,Luxembourg,Good,33
+06-07-2023,Macao,Good,38
+06-07-2023,Macedonia,Good,32
+06-07-2023,Madagascar,Moderate,67
+06-07-2023,Malaysia,Moderate,62
+06-07-2023,Malta,Moderate,56
+06-07-2023,Martinique,Moderate,75
+06-07-2023,Mexico,Unhealthy for Sensitive Groups,120
+06-07-2023,Moldova,Good,22
+06-07-2023,Monaco,Good,33
+06-07-2023,Mongolia,Moderate,54
+06-07-2023,Montenegro,Good,40
+06-07-2023,Myanmar,Good,36
+06-07-2023,Nepal,Moderate,59
+06-07-2023,Netherlands,Good,38
+06-07-2023,New Caledonia,Good,29
+06-07-2023,New Zealand,Good,40
+06-07-2023,Nigeria,Unhealthy,178
+06-07-2023,Norway,Good,29
+06-07-2023,Pakistan,Moderate,64
+06-07-2023,Palestinian Territory,Unhealthy for Sensitive Groups,123
+06-07-2023,Peru,Good,46
+06-07-2023,Philippines,Good,23
+06-07-2023,Poland,Moderate,55
+06-07-2023,Portugal,Good,13
+06-07-2023,Puerto Rico,Moderate,58
+06-07-2023,Qatar,Moderate,84
+06-07-2023,Reunion,Good,22
+06-07-2023,Romania,Moderate,67
+06-07-2023,Russia,Moderate,91
+06-07-2023,San Marino,Good,47
+06-07-2023,Saudi Arabia,Moderate,65
+06-07-2023,Senegal,Moderate,67
+06-07-2023,Serbia,Moderate,80
+06-07-2023,Singapore,Good,40
+06-07-2023,Slovakia,Good,42
+06-07-2023,Slovenia,Good,18
+06-07-2023,South Africa,Unhealthy,182
+06-07-2023,South Korea,Unhealthy for Sensitive Groups,113
+06-07-2023,Spain,Moderate,86
+06-07-2023,Sri Lanka,Good,40
+06-07-2023,Sweden,Good,32
+06-07-2023,Switzerland,Good,18
+06-07-2023,Taiwan,Moderate,52
+06-07-2023,Tajikistan,Moderate,79
+06-07-2023,Thailand,Moderate,81
+06-07-2023,Togo,Moderate,55
+06-07-2023,Trinidad and Tobago,Moderate,73
+06-07-2023,Turkey,Unhealthy,163
+06-07-2023,Turkmenistan,Moderate,68
+06-07-2023,Uganda,Unhealthy for Sensitive Groups,131
+06-07-2023,Ukraine,Moderate,76
+06-07-2023,United Arab Emirates,Moderate,90
+06-07-2023,United Kingdom of Great Britain and Northern Ireland,Good,42
+06-07-2023,United States of America,Moderate,91
+06-07-2023,Uzbekistan,Moderate,82
+06-07-2023,Vatican,Good,42
+06-07-2023,Venezuela,Good,38
+06-07-2023,Vietnam,Moderate,88
+06-07-2023,Zambia,Moderate,70
+13-07-2023,Albania,Good,19
+13-07-2023,Algeria,Moderate,75
+13-07-2023,Andorra,Good,31
+13-07-2023,Angola,Unhealthy,154
+13-07-2023,Argentina,Good,7
+13-07-2023,Armenia,Good,37
+13-07-2023,Australia,Moderate,52
+13-07-2023,Austria,Good,19
+13-07-2023,Azerbaijan,Good,30
+13-07-2023,Bahrain,Unhealthy,185
+13-07-2023,Bangladesh,Moderate,99
+13-07-2023,Belarus,Good,34
+13-07-2023,Belgium,Good,39
+13-07-2023,Belize,Good,33
+13-07-2023,Bermuda,Good,27
+13-07-2023,Bolivia,Moderate,91
+13-07-2023,Bosnia and Herzegovina,Moderate,65
+13-07-2023,Brazil,Moderate,71
+13-07-2023,Brunei,Good,10
+13-07-2023,Bulgaria,Good,39
+13-07-2023,Burkina Faso,Unhealthy for Sensitive Groups,121
+13-07-2023,Cambodia,Good,2
+13-07-2023,Canada,Unhealthy,156
+13-07-2023,Cape Verde,Good,47
+13-07-2023,Cayman Islands,Moderate,61
+13-07-2023,Chile,Unhealthy,198
+13-07-2023,China,Unhealthy for Sensitive Groups,134
+13-07-2023,Colombia,Moderate,64
+13-07-2023,Costa Rica,Good,9
+13-07-2023,Croatia,Good,40
+13-07-2023,Cyprus,Good,50
+13-07-2023,Czech Republic,Moderate,60
+13-07-2023,Denmark,Good,24
+13-07-2023,Dominican Republic,Good,26
+13-07-2023,Ecuador,Good,39
+13-07-2023,Egypt,Good,29
+13-07-2023,El Salvador,Moderate,91
+13-07-2023,Estonia,Good,23
+13-07-2023,Ethiopia,Unhealthy for Sensitive Groups,131
+13-07-2023,Finland,Good,40
+13-07-2023,France,Moderate,61
+13-07-2023,French Guiana,Good,9
+13-07-2023,Gabon,Unhealthy for Sensitive Groups,109
+13-07-2023,Georgia,Good,37
+13-07-2023,Germany,Good,39
+13-07-2023,Ghana,Unhealthy for Sensitive Groups,147
+13-07-2023,Gibraltar,Good,38
+13-07-2023,Greece,Moderate,67
+13-07-2023,Grenada,Good,28
+13-07-2023,Guadeloupe,Good,28
+13-07-2023,Guam,Good,3
+13-07-2023,Guatemala,Good,31
+13-07-2023,Honduras,Good,9
+13-07-2023,Hong Kong,Good,46
+13-07-2023,Iceland,Good,9
+13-07-2023,India,Unhealthy,163
+13-07-2023,Indonesia,Moderate,94
+13-07-2023,Iran,Unhealthy,151
+13-07-2023,Ireland,Good,19
+13-07-2023,Israel,Moderate,66
+13-07-2023,Italy,Moderate,68
+13-07-2023,Ivory Coast,Good,50
+13-07-2023,Japan,Moderate,76
+13-07-2023,Jersey,Good,20
+13-07-2023,Jordan,Good,36
+13-07-2023,Kazakhstan,Very Unhealthy,219
+13-07-2023,Kenya,Unhealthy for Sensitive Groups,102
+13-07-2023,Kosovo,Good,40
+13-07-2023,Kuwait,Unhealthy for Sensitive Groups,106
+13-07-2023,Kyrgyzstan,Good,47
+13-07-2023,Laos,Good,34
+13-07-2023,Latvia,Good,16
+13-07-2023,Lebanon,Moderate,90
+13-07-2023,Liberia,Moderate,52
+13-07-2023,Liechtenstein,Good,9
+13-07-2023,Lithuania,Good,48
+13-07-2023,Luxembourg,Good,33
+13-07-2023,Macao,Good,46
+13-07-2023,Macedonia,Moderate,55
+13-07-2023,Madagascar,Good,42
+13-07-2023,Malaysia,Moderate,55
+13-07-2023,Malta,Moderate,58
+13-07-2023,Martinique,Good,50
+13-07-2023,Mexico,Moderate,80
+13-07-2023,Moldova,Good,17
+13-07-2023,Monaco,Moderate,64
+13-07-2023,Mongolia,Moderate,62
+13-07-2023,Montenegro,Good,48
+13-07-2023,Myanmar,Good,42
+13-07-2023,Nepal,Moderate,59
+13-07-2023,Netherlands,Good,35
+13-07-2023,New Caledonia,Good,25
+13-07-2023,New Zealand,Good,48
+13-07-2023,Nigeria,Unhealthy for Sensitive Groups,109
+13-07-2023,Norway,Good,25
+13-07-2023,Pakistan,Moderate,73
+13-07-2023,Palestinian Territory,Good,39
+13-07-2023,Peru,Good,48
+13-07-2023,Philippines,Good,50
+13-07-2023,Poland,Moderate,67
+13-07-2023,Portugal,Good,24
+13-07-2023,Puerto Rico,Good,13
+13-07-2023,Qatar,Moderate,62
+13-07-2023,Reunion,Good,23
+13-07-2023,Romania,Moderate,83
+13-07-2023,Russia,Moderate,68
+13-07-2023,San Marino,Moderate,59
+13-07-2023,Saudi Arabia,Good,46
+13-07-2023,Senegal,Good,38
+13-07-2023,Serbia,Moderate,65
+13-07-2023,Singapore,Good,37
+13-07-2023,Slovakia,Moderate,53
+13-07-2023,Slovenia,Good,28
+13-07-2023,South Africa,Unhealthy for Sensitive Groups,146
+13-07-2023,South Korea,Moderate,70
+13-07-2023,Spain,Moderate,83
+13-07-2023,Sri Lanka,Good,42
+13-07-2023,Sweden,Good,25
+13-07-2023,Switzerland,Good,14
+13-07-2023,Taiwan,Moderate,72
+13-07-2023,Tajikistan,Moderate,100
+13-07-2023,Thailand,Moderate,72
+13-07-2023,Togo,Unhealthy for Sensitive Groups,129
+13-07-2023,Trinidad and Tobago,Good,37
+13-07-2023,Turkey,Unhealthy for Sensitive Groups,125
+13-07-2023,Uganda,Unhealthy for Sensitive Groups,129
+13-07-2023,Ukraine,Moderate,69
+13-07-2023,United Arab Emirates,Moderate,89
+13-07-2023,United Kingdom of Great Britain and Northern Ireland,Good,36
+13-07-2023,United States of America,Moderate,86
+13-07-2023,Uzbekistan,Moderate,92
+13-07-2023,Vatican,Moderate,59
+13-07-2023,Venezuela,Good,9
+13-07-2023,Vietnam,Moderate,69
+13-07-2023,Zambia,Moderate,63
+20-07-2023,Albania,Good,19
+20-07-2023,Algeria,Moderate,82
+20-07-2023,Andorra,Good,48
+20-07-2023,Angola,Unhealthy for Sensitive Groups,145
+20-07-2023,Argentina,Good,41
+20-07-2023,Armenia,Good,34
+20-07-2023,Australia,Good,38
+20-07-2023,Austria,Good,30
+20-07-2023,Azerbaijan,Good,31
+20-07-2023,Bangladesh,Unhealthy for Sensitive Groups,102
+20-07-2023,Belarus,Good,30
+20-07-2023,Belgium,Good,48
+20-07-2023,Belize,Good,15
+20-07-2023,Bermuda,Good,16
+20-07-2023,Bolivia,Moderate,60
+20-07-2023,Bosnia and Herzegovina,Moderate,59
+20-07-2023,Brazil,Good,48
+20-07-2023,Brunei,Good,13
+20-07-2023,Bulgaria,Good,31
+20-07-2023,Burkina Faso,Unhealthy for Sensitive Groups,123
+20-07-2023,Cambodia,Good,13
+20-07-2023,Canada,Unhealthy for Sensitive Groups,125
+20-07-2023,Cape Verde,Moderate,57
+20-07-2023,Cayman Islands,Good,14
+20-07-2023,Chile,Unhealthy,196
+20-07-2023,China,Unhealthy,158
+20-07-2023,Colombia,Moderate,59
+20-07-2023,Costa Rica,Good,11
+20-07-2023,Croatia,Good,32
+20-07-2023,Cyprus,Moderate,58
+20-07-2023,Czech Republic,Moderate,57
+20-07-2023,Denmark,Good,16
+20-07-2023,Dominican Republic,Good,45
+20-07-2023,Ecuador,Good,28
+20-07-2023,Egypt,Unhealthy for Sensitive Groups,109
+20-07-2023,El Salvador,Moderate,93
+20-07-2023,Estonia,Good,16
+20-07-2023,Ethiopia,Unhealthy,156
+20-07-2023,Finland,Good,23
+20-07-2023,France,Moderate,57
+20-07-2023,French Guiana,Good,33
+20-07-2023,Gabon,Moderate,79
+20-07-2023,Georgia,Good,43
+20-07-2023,Germany,Moderate,55
+20-07-2023,Ghana,Moderate,70
+20-07-2023,Gibraltar,Moderate,63
+20-07-2023,Greece,Moderate,63
+20-07-2023,Grenada,Good,6
+20-07-2023,Guadeloupe,Good,44
+20-07-2023,Guam,Good,1
+20-07-2023,Guatemala,Good,38
+20-07-2023,Honduras,Good,10
+20-07-2023,Hong Kong,Good,34
+20-07-2023,Iceland,Good,14
+20-07-2023,India,Unhealthy for Sensitive Groups,139
+20-07-2023,Indonesia,Moderate,89
+20-07-2023,Iran,Unhealthy,186
+20-07-2023,Ireland,Good,31
+20-07-2023,Israel,Good,33
+20-07-2023,Italy,Moderate,71
+20-07-2023,Ivory Coast,Good,9
+20-07-2023,Japan,Moderate,94
+20-07-2023,Jersey,Moderate,55
+20-07-2023,Jordan,Good,36
+20-07-2023,Kazakhstan,Unhealthy,181
+20-07-2023,Kenya,Moderate,88
+20-07-2023,Kosovo,Good,38
+20-07-2023,Kuwait,Moderate,88
+20-07-2023,Kyrgyzstan,Good,47
+20-07-2023,Laos,Good,43
+20-07-2023,Latvia,Good,6
+20-07-2023,Lebanon,Unhealthy for Sensitive Groups,113
+20-07-2023,Liberia,Good,36
+20-07-2023,Liechtenstein,Good,17
+20-07-2023,Lithuania,Good,21
+20-07-2023,Luxembourg,Good,49
+20-07-2023,Macao,Good,50
+20-07-2023,Macedonia,Moderate,53
+20-07-2023,Madagascar,Moderate,84
+20-07-2023,Malaysia,Moderate,59
+20-07-2023,Malta,Moderate,82
+20-07-2023,Martinique,Moderate,79
+20-07-2023,Mexico,Moderate,86
+20-07-2023,Moldova,Good,14
+20-07-2023,Monaco,Moderate,59
+20-07-2023,Mongolia,Moderate,55
+20-07-2023,Montenegro,Good,47
+20-07-2023,Myanmar,Good,41
+20-07-2023,Nepal,Moderate,55
+20-07-2023,Netherlands,Good,25
+20-07-2023,New Caledonia,Moderate,58
+20-07-2023,New Zealand,Good,31
+20-07-2023,Nigeria,Moderate,70
+20-07-2023,Norway,Good,17
+20-07-2023,Pakistan,Moderate,79
+20-07-2023,Palestinian Territory,Moderate,84
+20-07-2023,Peru,Moderate,58
+20-07-2023,Philippines,Good,46
+20-07-2023,Poland,Moderate,52
+20-07-2023,Portugal,Good,22
+20-07-2023,Puerto Rico,Good,31
+20-07-2023,Qatar,Moderate,74
+20-07-2023,Reunion,Good,15
+20-07-2023,Romania,Moderate,99
+20-07-2023,Russia,Moderate,87
+20-07-2023,San Marino,Moderate,76
+20-07-2023,Saudi Arabia,Moderate,53
+20-07-2023,Senegal,Good,17
+20-07-2023,Serbia,Moderate,53
+20-07-2023,Singapore,Good,33
+20-07-2023,Slovakia,Moderate,51
+20-07-2023,Slovenia,Good,32
+20-07-2023,South Africa,Unhealthy,168
+20-07-2023,South Korea,Unhealthy for Sensitive Groups,150
+20-07-2023,Spain,Unhealthy for Sensitive Groups,107
+20-07-2023,Sri Lanka,Good,33
+20-07-2023,Sweden,Good,21
+20-07-2023,Switzerland,Good,24
+20-07-2023,Taiwan,Moderate,69
+20-07-2023,Tajikistan,Moderate,81
+20-07-2023,Thailand,Unhealthy for Sensitive Groups,102
+20-07-2023,Togo,Moderate,72
+20-07-2023,Trinidad and Tobago,Good,23
+20-07-2023,Turkey,Moderate,94
+20-07-2023,Uganda,Unhealthy,161
+20-07-2023,Ukraine,Moderate,57
+20-07-2023,United Arab Emirates,Moderate,99
+20-07-2023,United Kingdom of Great Britain and Northern Ireland,Good,38
+20-07-2023,United States of America,Moderate,98
+20-07-2023,Uzbekistan,Moderate,77
+20-07-2023,Vatican,Moderate,63
+20-07-2023,Venezuela,Good,5
+20-07-2023,Vietnam,Moderate,96
+20-07-2023,Zambia,Unhealthy for Sensitive Groups,108
+27-07-2023,Albania,Good,14
+27-07-2023,Algeria,Good,23
+27-07-2023,Andorra,Good,11
+27-07-2023,Angola,Unhealthy for Sensitive Groups,145
+27-07-2023,Argentina,Good,36
+27-07-2023,Armenia,Moderate,54
+27-07-2023,Australia,Moderate,56
+27-07-2023,Austria,Good,18
+27-07-2023,Azerbaijan,Good,44
+27-07-2023,Bangladesh,Unhealthy for Sensitive Groups,102
+27-07-2023,Belarus,Good,21
+27-07-2023,Belgium,Good,20
+27-07-2023,Belize,Good,36
+27-07-2023,Bermuda,Good,18
+27-07-2023,Bolivia,Moderate,90
+27-07-2023,Bosnia and Herzegovina,Moderate,60
+27-07-2023,Brazil,Unhealthy for Sensitive Groups,148
+27-07-2023,Brunei,Good,32
+27-07-2023,Bulgaria,Good,27
+27-07-2023,Burkina Faso,Unhealthy for Sensitive Groups,133
+27-07-2023,Cambodia,Good,4
+27-07-2023,Canada,Moderate,92
+27-07-2023,Cape Verde,Moderate,54
+27-07-2023,Cayman Islands,Good,10
+27-07-2023,Chile,Unhealthy,189
+27-07-2023,China,Unhealthy for Sensitive Groups,138
+27-07-2023,Colombia,Moderate,78
+27-07-2023,Costa Rica,Good,6
+27-07-2023,Croatia,Good,22
+27-07-2023,Cyprus,Moderate,68
+27-07-2023,Czech Republic,Good,40
+27-07-2023,Denmark,Good,14
+27-07-2023,Dominican Republic,Good,21
+27-07-2023,Ecuador,Moderate,61
+27-07-2023,Egypt,Moderate,54
+27-07-2023,El Salvador,Unhealthy for Sensitive Groups,107
+27-07-2023,Estonia,Good,14
+27-07-2023,Ethiopia,Unhealthy for Sensitive Groups,146
+27-07-2023,Finland,Good,31
+27-07-2023,France,Good,42
+27-07-2023,French Guiana,Good,15
+27-07-2023,Gabon,Moderate,96
+27-07-2023,Georgia,Good,42
+27-07-2023,Germany,Good,43
+27-07-2023,Ghana,Moderate,53
+27-07-2023,Gibraltar,Good,48
+27-07-2023,Greece,Good,50
+27-07-2023,Grenada,Good,15
+27-07-2023,Guadeloupe,Good,17
+27-07-2023,Guam,Good,3
+27-07-2023,Guatemala,Moderate,75
+27-07-2023,Honduras,Good,35
+27-07-2023,Hong Kong,Moderate,62
+27-07-2023,Iceland,Good,10
+27-07-2023,India,Unhealthy,160
+27-07-2023,Indonesia,Unhealthy for Sensitive Groups,120
+27-07-2023,Iran,Unhealthy,189
+27-07-2023,Ireland,Good,15
+27-07-2023,Israel,Moderate,77
+27-07-2023,Italy,Moderate,61
+27-07-2023,Ivory Coast,Moderate,61
+27-07-2023,Japan,Unhealthy for Sensitive Groups,130
+27-07-2023,Jersey,Moderate,52
+27-07-2023,Jordan,Good,42
+27-07-2023,Kazakhstan,Moderate,69
+27-07-2023,Kenya,Moderate,94
+27-07-2023,Kosovo,Good,24
+27-07-2023,Kuwait,Unhealthy for Sensitive Groups,111
+27-07-2023,Kyrgyzstan,Good,49
+27-07-2023,Laos,Good,41
+27-07-2023,Latvia,Good,9
+27-07-2023,Lebanon,Unhealthy for Sensitive Groups,104
+27-07-2023,Liberia,Good,10
+27-07-2023,Liechtenstein,Good,17
+27-07-2023,Lithuania,Good,24
+27-07-2023,Luxembourg,Good,25
+27-07-2023,Macao,Moderate,73
+27-07-2023,Macedonia,Good,37
+27-07-2023,Madagascar,Moderate,81
+27-07-2023,Malaysia,Moderate,78
+27-07-2023,Malta,Moderate,51
+27-07-2023,Martinique,Good,39
+27-07-2023,Mexico,Moderate,81
+27-07-2023,Moldova,Good,23
+27-07-2023,Monaco,Good,40
+27-07-2023,Mongolia,Good,48
+27-07-2023,Montenegro,Good,17
+27-07-2023,Myanmar,Good,27
+27-07-2023,Nepal,Good,49
+27-07-2023,Netherlands,Good,22
+27-07-2023,New Zealand,Good,38
+27-07-2023,Nigeria,Moderate,87
+27-07-2023,Norway,Good,22
+27-07-2023,Pakistan,Moderate,56
+27-07-2023,Palestinian Territory,Moderate,77
+27-07-2023,Peru,Moderate,55
+27-07-2023,Philippines,Good,39
+27-07-2023,Poland,Moderate,57
+27-07-2023,Portugal,Good,19
+27-07-2023,Puerto Rico,Good,19
+27-07-2023,Qatar,Moderate,76
+27-07-2023,Reunion,Good,14
+27-07-2023,Romania,Moderate,51
+27-07-2023,Russia,Moderate,71
+27-07-2023,San Marino,Good,41
+27-07-2023,Saudi Arabia,Moderate,53
+27-07-2023,Senegal,Moderate,61
+27-07-2023,Serbia,Good,38
+27-07-2023,Singapore,Moderate,57
+27-07-2023,Slovakia,Good,25
+27-07-2023,Slovenia,Good,21
+27-07-2023,South Africa,Unhealthy,164
+27-07-2023,South Korea,Unhealthy for Sensitive Groups,102
+27-07-2023,Spain,Moderate,70
+27-07-2023,Sri Lanka,Good,34
+27-07-2023,Sweden,Good,19
+27-07-2023,Switzerland,Good,20
+27-07-2023,Taiwan,Moderate,71
+27-07-2023,Tajikistan,Moderate,98
+27-07-2023,Thailand,Moderate,72
+27-07-2023,Togo,Moderate,94
+27-07-2023,Trinidad and Tobago,Good,39
+27-07-2023,Turkey,Unhealthy for Sensitive Groups,115
+27-07-2023,Uganda,Unhealthy for Sensitive Groups,141
+27-07-2023,Ukraine,Moderate,62
+27-07-2023,United Arab Emirates,Moderate,97
+27-07-2023,United Kingdom of Great Britain and Northern Ireland,Good,37
+27-07-2023,United States of America,Moderate,94
+27-07-2023,Uzbekistan,Moderate,64
+27-07-2023,Vatican,Moderate,65
+27-07-2023,Venezuela,Good,6
+27-07-2023,Vietnam,Unhealthy for Sensitive Groups,103
+27-07-2023,Zambia,Moderate,100
+03-08-2023,Albania,Good,19
+03-08-2023,Algeria,Moderate,76
+03-08-2023,Andorra,Good,38
+03-08-2023,Angola,Unhealthy for Sensitive Groups,109
+03-08-2023,Argentina,Good,2
+03-08-2023,Armenia,Good,30
+03-08-2023,Australia,Good,48
+03-08-2023,Austria,Good,42
+03-08-2023,Azerbaijan,Good,46
+03-08-2023,Bahrain,Unhealthy for Sensitive Groups,129
+03-08-2023,Bangladesh,Moderate,97
+03-08-2023,Belarus,Good,13
+03-08-2023,Belgium,Very Unhealthy,262
+03-08-2023,Belize,Good,29
+03-08-2023,Bermuda,Good,2
+03-08-2023,Bolivia,Moderate,58
+03-08-2023,Bosnia and Herzegovina,Moderate,63
+03-08-2023,Brazil,Unhealthy,156
+03-08-2023,Brunei,Good,12
+03-08-2023,Bulgaria,Moderate,90
+03-08-2023,Burkina Faso,Moderate,64
+03-08-2023,Cambodia,Good,4
+03-08-2023,Canada,Unhealthy for Sensitive Groups,102
+03-08-2023,Cape Verde,Good,23
+03-08-2023,Cayman Islands,Good,14
+03-08-2023,Chile,Very Unhealthy,209
+03-08-2023,China,Unhealthy for Sensitive Groups,146
+03-08-2023,Colombia,Moderate,70
+03-08-2023,Costa Rica,Good,4
+03-08-2023,Croatia,Good,39
+03-08-2023,Cyprus,Moderate,52
+03-08-2023,Czech Republic,Good,38
+03-08-2023,Denmark,Good,11
+03-08-2023,Dominican Republic,Good,15
+03-08-2023,Ecuador,Good,41
+03-08-2023,El Salvador,Good,18
+03-08-2023,Estonia,Good,20
+03-08-2023,Ethiopia,Unhealthy for Sensitive Groups,139
+03-08-2023,Finland,Good,29
+03-08-2023,France,Moderate,62
+03-08-2023,French Guiana,Good,19
+03-08-2023,Gabon,Unhealthy,152
+03-08-2023,Georgia,Good,18
+03-08-2023,Germany,Hazardous,500
+03-08-2023,Ghana,Good,16
+03-08-2023,Gibraltar,Good,35
+03-08-2023,Greece,Moderate,86
+03-08-2023,Grenada,Good,11
+03-08-2023,Guadeloupe,Good,15
+03-08-2023,Guatemala,Good,36
+03-08-2023,Honduras,Good,7
+03-08-2023,Hong Kong,Moderate,55
+03-08-2023,Hungary,Good,48
+03-08-2023,Iceland,Good,12
+03-08-2023,India,Unhealthy,156
+03-08-2023,Indonesia,Unhealthy for Sensitive Groups,129
+03-08-2023,Iran,Unhealthy for Sensitive Groups,136
+03-08-2023,Iraq,Good,34
+03-08-2023,Ireland,Good,22
+03-08-2023,Israel,Moderate,78
+03-08-2023,Italy,Moderate,71
+03-08-2023,Ivory Coast,Good,14
+03-08-2023,Japan,Unhealthy for Sensitive Groups,101
+03-08-2023,Jersey,Good,29
+03-08-2023,Jordan,Good,35
+03-08-2023,Kazakhstan,Very Unhealthy,204
+03-08-2023,Kenya,Moderate,72
+03-08-2023,Kosovo,Good,42
+03-08-2023,Kuwait,Moderate,57
+03-08-2023,Kyrgyzstan,Unhealthy,170
+03-08-2023,Laos,Good,40
+03-08-2023,Latvia,Good,17
+03-08-2023,Lebanon,Good,31
+03-08-2023,Liechtenstein,Good,8
+03-08-2023,Lithuania,Good,42
+03-08-2023,Luxembourg,Good,16
+03-08-2023,Macao,Good,46
+03-08-2023,Macedonia,Moderate,54
+03-08-2023,Madagascar,Good,28
+03-08-2023,Malaysia,Moderate,74
+03-08-2023,Malta,Good,33
+03-08-2023,Martinique,Good,18
+03-08-2023,Mexico,Very Unhealthy,202
+03-08-2023,Moldova,Good,11
+03-08-2023,Monaco,Good,24
+03-08-2023,Mongolia,Good,39
+03-08-2023,Montenegro,Good,31
+03-08-2023,Myanmar,Good,41
+03-08-2023,Nepal,Good,50
+03-08-2023,Netherlands,Hazardous,419
+03-08-2023,New Zealand,Good,39
+03-08-2023,Nigeria,Good,41
+03-08-2023,Norway,Good,30
+03-08-2023,Pakistan,Moderate,86
+03-08-2023,Palestinian Territory,Good,25
+03-08-2023,Peru,Moderate,94
+03-08-2023,Philippines,Good,50
+03-08-2023,Poland,Moderate,71
+03-08-2023,Portugal,Good,28
+03-08-2023,Puerto Rico,Good,6
+03-08-2023,Qatar,Good,46
+03-08-2023,Reunion,Good,11
+03-08-2023,Romania,Unhealthy for Sensitive Groups,104
+03-08-2023,Russia,Moderate,79
+03-08-2023,San Marino,Good,45
+03-08-2023,Serbia,Moderate,66
+03-08-2023,Singapore,Good,48
+03-08-2023,Slovakia,Good,31
+03-08-2023,Slovenia,Good,36
+03-08-2023,South Africa,Unhealthy for Sensitive Groups,141
+03-08-2023,South Korea,Moderate,86
+03-08-2023,Spain,Moderate,74
+03-08-2023,Sri Lanka,Good,45
+03-08-2023,Sweden,Good,32
+03-08-2023,Switzerland,Good,26
+03-08-2023,Taiwan,Moderate,65
+03-08-2023,Tajikistan,Good,37
+03-08-2023,Thailand,Moderate,86
+03-08-2023,Togo,Unhealthy for Sensitive Groups,115
+03-08-2023,Trinidad and Tobago,Good,17
+03-08-2023,Turkey,Moderate,92
+03-08-2023,Uganda,Unhealthy for Sensitive Groups,139
+03-08-2023,Ukraine,Good,48
+03-08-2023,United Arab Emirates,Moderate,53
+03-08-2023,United Kingdom of Great Britain and Northern Ireland,Very Unhealthy,274
+03-08-2023,United States of America,Hazardous,470
+03-08-2023,Uzbekistan,Good,30
+03-08-2023,Vatican,Good,47
+03-08-2023,Venezuela,Good,8
+03-08-2023,Vietnam,Moderate,79
+03-08-2023,Zambia,Good,16
+10-08-2023,Albania,Good,16
+10-08-2023,Algeria,Good,13
+10-08-2023,Andorra,Good,14
+10-08-2023,Angola,Unhealthy,152
+10-08-2023,Argentina,Good,12
+10-08-2023,Armenia,Good,31
+10-08-2023,Australia,Good,45
+10-08-2023,Austria,Good,34
+10-08-2023,Azerbaijan,Good,42
+10-08-2023,Bahrain,Moderate,91
+10-08-2023,Bangladesh,Unhealthy for Sensitive Groups,107
+10-08-2023,Belarus,Good,11
+10-08-2023,Belgium,Good,50
+10-08-2023,Belize,Good,22
+10-08-2023,Bermuda,Good,29
+10-08-2023,Bolivia,Good,27
+10-08-2023,Bosnia and Herzegovina,Good,48
+10-08-2023,Brazil,Moderate,95
+10-08-2023,Brunei,Good,15
+10-08-2023,Bulgaria,Good,37
+10-08-2023,Cambodia,Good,1
+10-08-2023,Canada,Moderate,100
+10-08-2023,Cape Verde,Good,9
+10-08-2023,Cayman Islands,Good,10
+10-08-2023,Chad,Moderate,63
+10-08-2023,Chile,Unhealthy for Sensitive Groups,117
+10-08-2023,China,Unhealthy for Sensitive Groups,148
+10-08-2023,Colombia,Moderate,93
+10-08-2023,Costa Rica,Good,13
+10-08-2023,Croatia,Good,25
+10-08-2023,Cyprus,Good,44
+10-08-2023,Czech Republic,Moderate,65
+10-08-2023,Denmark,Good,8
+10-08-2023,Dominican Republic,Good,13
+10-08-2023,Ecuador,Good,47
+10-08-2023,Egypt,Moderate,69
+10-08-2023,El Salvador,Good,39
+10-08-2023,Estonia,Good,16
+10-08-2023,Ethiopia,Unhealthy for Sensitive Groups,142
+10-08-2023,Finland,Good,25
+10-08-2023,France,Moderate,58
+10-08-2023,French Guiana,Good,18
+10-08-2023,Gabon,Unhealthy for Sensitive Groups,103
+10-08-2023,Georgia,Good,29
+10-08-2023,Germany,Unhealthy for Sensitive Groups,101
+10-08-2023,Ghana,Good,37
+10-08-2023,Gibraltar,Good,48
+10-08-2023,Greece,Moderate,54
+10-08-2023,Grenada,Good,6
+10-08-2023,Guadeloupe,Good,12
+10-08-2023,Guatemala,Moderate,64
+10-08-2023,Honduras,Good,14
+10-08-2023,Hong Kong,Moderate,64
+10-08-2023,Hungary,Good,33
+10-08-2023,Iceland,Good,7
+10-08-2023,India,Unhealthy,159
+10-08-2023,Indonesia,Unhealthy,153
+10-08-2023,Iran,Unhealthy,158
+10-08-2023,Iraq,Good,23
+10-08-2023,Ireland,Good,16
+10-08-2023,Israel,Moderate,64
+10-08-2023,Italy,Moderate,60
+10-08-2023,Ivory Coast,Good,22
+10-08-2023,Japan,Moderate,73
+10-08-2023,Jersey,Good,29
+10-08-2023,Jordan,Good,32
+10-08-2023,Kazakhstan,Moderate,67
+10-08-2023,Kenya,Moderate,62
+10-08-2023,Kosovo,Good,19
+10-08-2023,Kuwait,Moderate,76
+10-08-2023,Kyrgyzstan,Good,50
+10-08-2023,Laos,Good,33
+10-08-2023,Latvia,Good,11
+10-08-2023,Lebanon,Good,24
+10-08-2023,Liberia,Good,17
+10-08-2023,Liechtenstein,Good,12
+10-08-2023,Lithuania,Good,40
+10-08-2023,Luxembourg,Good,35
+10-08-2023,Macao,Moderate,57
+10-08-2023,Macedonia,Good,42
+10-08-2023,Madagascar,Good,49
+10-08-2023,Malaysia,Moderate,65
+10-08-2023,Malta,Good,30
+10-08-2023,Martinique,Good,18
+10-08-2023,Mexico,Unhealthy for Sensitive Groups,103
+10-08-2023,Moldova,Good,9
+10-08-2023,Monaco,Good,27
+10-08-2023,Mongolia,Good,43
+10-08-2023,Montenegro,Good,28
+10-08-2023,Myanmar,Moderate,77
+10-08-2023,Nepal,Moderate,57
+10-08-2023,Netherlands,Moderate,74
+10-08-2023,New Zealand,Good,31
+10-08-2023,Nigeria,Good,34
+10-08-2023,Norway,Good,21
+10-08-2023,Pakistan,Moderate,54
+10-08-2023,Palestinian Territory,Good,34
+10-08-2023,Peru,Moderate,81
+10-08-2023,Philippines,Moderate,53
+10-08-2023,Poland,Moderate,94
+10-08-2023,Portugal,Good,30
+10-08-2023,Puerto Rico,Good,5
+10-08-2023,Qatar,Moderate,60
+10-08-2023,Reunion,Good,13
+10-08-2023,Romania,Moderate,54
+10-08-2023,Russia,Unhealthy for Sensitive Groups,117
+10-08-2023,San Marino,Good,40
+10-08-2023,Serbia,Good,46
+10-08-2023,Singapore,Moderate,68
+10-08-2023,Slovakia,Good,27
+10-08-2023,Slovenia,Good,21
+10-08-2023,South Africa,Unhealthy,172
+10-08-2023,South Korea,Moderate,65
+10-08-2023,Spain,Moderate,89
+10-08-2023,Sri Lanka,Good,37
+10-08-2023,Sweden,Good,17
+10-08-2023,Switzerland,Good,25
+10-08-2023,Taiwan,Moderate,68
+10-08-2023,Tajikistan,Moderate,53
+10-08-2023,Thailand,Moderate,78
+10-08-2023,Togo,Moderate,96
+10-08-2023,Trinidad and Tobago,Good,8
+10-08-2023,Turkey,Moderate,84
+10-08-2023,Turkmenistan,Moderate,68
+10-08-2023,Uganda,Good,1
+10-08-2023,Ukraine,Moderate,55
+10-08-2023,United Arab Emirates,Moderate,86
+10-08-2023,United Kingdom of Great Britain and Northern Ireland,Moderate,68
+10-08-2023,United States of America,Unhealthy,169
+10-08-2023,Uzbekistan,Good,48
+10-08-2023,Vatican,Good,37
+10-08-2023,Venezuela,Good,4
+10-08-2023,Vietnam,Unhealthy for Sensitive Groups,107
+10-08-2023,Zambia,Moderate,99
+10-08-2023,Albania,Good,18
+10-08-2023,Algeria,Moderate,99
+10-08-2023,Andorra,Good,16
+10-08-2023,Angola,Unhealthy for Sensitive Groups,128
+10-08-2023,Argentina,Good,20
+10-08-2023,Armenia,Good,26
+10-08-2023,Australia,Moderate,92
+10-08-2023,Austria,Good,25
+10-08-2023,Azerbaijan,Good,48
+10-08-2023,Bahrain,Unhealthy for Sensitive Groups,127
+10-08-2023,Bangladesh,Unhealthy for Sensitive Groups,126
+10-08-2023,Belarus,Good,7
+10-08-2023,Belgium,Very Unhealthy,225
+10-08-2023,Belize,Good,21
+10-08-2023,Bermuda,Good,18
+10-08-2023,Bolivia,Good,42
+10-08-2023,Bosnia and Herzegovina,Moderate,55
+10-08-2023,Brazil,Moderate,82
+10-08-2023,Brunei,Good,15
+10-08-2023,Bulgaria,Moderate,60
+10-08-2023,Burkina Faso,Good,44
+10-08-2023,Cambodia,Good,18
+10-08-2023,Canada,Unhealthy for Sensitive Groups,113
+10-08-2023,Cape Verde,Good,25
+10-08-2023,Chad,Good,25
+10-08-2023,Chile,Moderate,92
+10-08-2023,China,Unhealthy,155
+10-08-2023,Colombia,Unhealthy for Sensitive Groups,105
+10-08-2023,Costa Rica,Good,6
+10-08-2023,Croatia,Good,27
+10-08-2023,Cyprus,Good,49
+10-08-2023,Czech Republic,Good,48
+10-08-2023,Denmark,Good,3
+10-08-2023,Dominican Republic,Good,16
+10-08-2023,Ecuador,Moderate,93
+10-08-2023,Egypt,Moderate,52
+10-08-2023,El Salvador,Good,14
+10-08-2023,Estonia,Good,25
+10-08-2023,Ethiopia,Unhealthy,174
+10-08-2023,Finland,Good,28
+10-08-2023,France,Moderate,78
+10-08-2023,French Guiana,Good,22
+10-08-2023,Gabon,Unhealthy for Sensitive Groups,106
+10-08-2023,Georgia,Good,27
+10-08-2023,Germany,Unhealthy for Sensitive Groups,145
+10-08-2023,Ghana,Good,30
+10-08-2023,Gibraltar,Moderate,60
+10-08-2023,Greece,Moderate,54
+10-08-2023,Grenada,Good,23
+10-08-2023,Guadeloupe,Good,19
+10-08-2023,Guatemala,Moderate,57
+10-08-2023,Honduras,Good,29
+10-08-2023,Hong Kong,Moderate,84
+10-08-2023,Hungary,Good,17
+10-08-2023,Iceland,Good,7
+10-08-2023,India,Unhealthy,163
+10-08-2023,Indonesia,Unhealthy for Sensitive Groups,146
+10-08-2023,Iran,Unhealthy,158
+10-08-2023,Iraq,Good,27
+10-08-2023,Ireland,Good,27
+10-08-2023,Israel,Moderate,62
+10-08-2023,Italy,Moderate,65
+10-08-2023,Ivory Coast,Good,37
+10-08-2023,Japan,Moderate,70
+10-08-2023,Jersey,Good,21
+10-08-2023,Jordan,Good,32
+10-08-2023,Kazakhstan,Moderate,81
+10-08-2023,Kenya,Good,49
+10-08-2023,Kosovo,Good,19
+10-08-2023,Kuwait,Moderate,73
+10-08-2023,Kyrgyzstan,Unhealthy,191
+10-08-2023,Laos,Moderate,72
+10-08-2023,Latvia,Good,9
+10-08-2023,Lebanon,Good,18
+10-08-2023,Liechtenstein,Good,35
+10-08-2023,Lithuania,Good,19
+10-08-2023,Luxembourg,Good,38
+10-08-2023,Macao,Moderate,53
+10-08-2023,Macedonia,Good,29
+10-08-2023,Madagascar,Good,35
+10-08-2023,Malaysia,Moderate,66
+10-08-2023,Malta,Good,35
+10-08-2023,Martinique,Unhealthy for Sensitive Groups,111
+10-08-2023,Mexico,Very Unhealthy,211
+10-08-2023,Moldova,Good,3
+10-08-2023,Monaco,Good,23
+10-08-2023,Mongolia,Good,41
+10-08-2023,Montenegro,Good,36
+10-08-2023,Myanmar,Good,44
+10-08-2023,Nepal,Moderate,78
+10-08-2023,Netherlands,Hazardous,406
+10-08-2023,New Zealand,Moderate,64
+10-08-2023,Nigeria,Good,33
+10-08-2023,Norway,Good,22
+10-08-2023,Pakistan,Moderate,51
+10-08-2023,Palestinian Territory,Good,37
+10-08-2023,Peru,Moderate,87
+10-08-2023,Philippines,Moderate,90
+10-08-2023,Poland,Moderate,53
+10-08-2023,Portugal,Good,23
+10-08-2023,Puerto Rico,Good,2
+10-08-2023,Qatar,Moderate,76
+10-08-2023,Reunion,Good,22
+10-08-2023,Romania,Moderate,66
+10-08-2023,Russia,Moderate,57
+10-08-2023,San Marino,Moderate,56
+10-08-2023,Serbia,Good,49
+10-08-2023,Singapore,Moderate,84
+10-08-2023,Slovakia,Good,35
+10-08-2023,Slovenia,Good,28
+10-08-2023,South Africa,Unhealthy,158
+10-08-2023,South Korea,Moderate,53
+10-08-2023,Spain,Moderate,97
+10-08-2023,Sri Lanka,Moderate,53
+10-08-2023,Sweden,Good,21
+10-08-2023,Switzerland,Good,46
+10-08-2023,Taiwan,Moderate,55
+10-08-2023,Tajikistan,Good,39
+10-08-2023,Thailand,Unhealthy for Sensitive Groups,109
+10-08-2023,Togo,Very Unhealthy,286
+10-08-2023,Trinidad and Tobago,Good,21
+10-08-2023,Turkey,Unhealthy for Sensitive Groups,103
+10-08-2023,Turkmenistan,Moderate,86
+10-08-2023,Uganda,Good,7
+10-08-2023,Ukraine,Good,39
+10-08-2023,United Arab Emirates,Unhealthy,151
+10-08-2023,United Kingdom of Great Britain and Northern Ireland,Very Unhealthy,210
+10-08-2023,United States of America,Hazardous,474
+10-08-2023,Uzbekistan,Good,28
+10-08-2023,Vatican,Good,34
+10-08-2023,Venezuela,Good,26
+10-08-2023,Vietnam,Unhealthy for Sensitive Groups,142
+10-08-2023,Zambia,Moderate,79
+06-06-2024,Albania,Good,17
+06-06-2024,Algeria,Good,46
+06-06-2024,Andorra,Moderate,51
+06-06-2024,Argentina,Moderate,52
+06-06-2024,Armenia,Good,26
+06-06-2024,Australia,Good,47
+06-06-2024,Austria,Good,37
+06-06-2024,Azerbaijan,Good,49
+06-06-2024,Bahrain,Moderate,85
+06-06-2024,Bangladesh,Unhealthy for Sensitive Groups,127
+06-06-2024,Belarus,Good,28
+06-06-2024,Belgium,Moderate,71
+06-06-2024,Belize,Unhealthy for Sensitive Groups,113
+06-06-2024,Bermuda,Good,11
+06-06-2024,Bolivia,Good,49
+06-06-2024,Bosnia and Herzegovina,Good,28
+06-06-2024,Brazil,Unhealthy for Sensitive Groups,122
+06-06-2024,Brunei,Good,11
+06-06-2024,Bulgaria,Good,22
+06-06-2024,Burkina Faso,Good,2
+06-06-2024,Cambodia,Good,21
+06-06-2024,Canada,Moderate,80
+06-06-2024,Cape Verde,Very Unhealthy,266
+06-06-2024,Cayman Islands,Good,16
+06-06-2024,Chad,Unhealthy for Sensitive Groups,122
+06-06-2024,Chile,Unhealthy,157
+06-06-2024,China,Unhealthy for Sensitive Groups,135
+06-06-2024,Colombia,Moderate,71
+06-06-2024,Costa Rica,Good,14
+06-06-2024,Croatia,Good,46
+06-06-2024,Cyprus,Moderate,60
+06-06-2024,Czech Republic,Moderate,65
+06-06-2024,Denmark,Good,23
+06-06-2024,Dominican Republic,Good,13
+06-06-2024,Ecuador,Good,23
+06-06-2024,Egypt,Unhealthy,170
+06-06-2024,El Salvador,Moderate,66
+06-06-2024,Estonia,Good,24
+06-06-2024,Ethiopia,Unhealthy for Sensitive Groups,149
+06-06-2024,Finland,Good,30
+06-06-2024,France,Moderate,68
+06-06-2024,French Guiana,Good,9
+06-06-2024,Georgia,Moderate,61
+06-06-2024,Germany,Hazardous,343
+06-06-2024,Ghana,Moderate,65
+06-06-2024,Gibraltar,Good,24
+06-06-2024,Greece,Moderate,58
+06-06-2024,Grenada,Good,27
+06-06-2024,Guadeloupe,Good,33
+06-06-2024,Guatemala,Unhealthy for Sensitive Groups,130
+06-06-2024,Honduras,Moderate,87
+06-06-2024,Hong Kong,Moderate,58
+06-06-2024,Hungary,Moderate,61
+06-06-2024,Iceland,Good,20
+06-06-2024,India,Hazardous,496
+06-06-2024,Indonesia,Unhealthy for Sensitive Groups,131
+06-06-2024,Iran,Unhealthy for Sensitive Groups,108
+06-06-2024,Iraq,Moderate,93
+06-06-2024,Ireland,Good,37
+06-06-2024,Israel,Moderate,81
+06-06-2024,Italy,Moderate,62
+06-06-2024,Ivory Coast,Good,34
+06-06-2024,Japan,Moderate,86
+06-06-2024,Jersey,Good,21
+06-06-2024,Jordan,Good,39
+06-06-2024,Kazakhstan,Good,43
+06-06-2024,Kenya,Unhealthy for Sensitive Groups,146
+06-06-2024,Kosovo,Good,21
+06-06-2024,Kuwait,Unhealthy for Sensitive Groups,112
+06-06-2024,Kyrgyzstan,Unhealthy for Sensitive Groups,142
+06-06-2024,Laos,Good,23
+06-06-2024,Latvia,Good,29
+06-06-2024,Liberia,Good,38
+06-06-2024,Liechtenstein,Good,10
+06-06-2024,Lithuania,Good,45
+06-06-2024,Luxembourg,Good,30
+06-06-2024,Macao,Moderate,80
+06-06-2024,Macedonia,Good,37
+06-06-2024,Madagascar,Unhealthy for Sensitive Groups,142
+06-06-2024,Malaysia,Moderate,73
+06-06-2024,Malta,Good,43
+06-06-2024,Martinique,Moderate,51
+06-06-2024,Mexico,Unhealthy for Sensitive Groups,147
+06-06-2024,Moldova,Good,2
+06-06-2024,Monaco,Good,33
+06-06-2024,Mongolia,Good,45
+06-06-2024,Montenegro,Good,10
+06-06-2024,Myanmar,Good,40
+06-06-2024,Nepal,Moderate,62
+06-06-2024,Netherlands,Very Unhealthy,235
+06-06-2024,New Caledonia,Good,11
+06-06-2024,New Zealand,Moderate,92
+06-06-2024,Nigeria,Good,29
+06-06-2024,Norway,Good,23
+06-06-2024,Pakistan,Moderate,69
+06-06-2024,Palestinian Territory,Unhealthy for Sensitive Groups,108
+06-06-2024,Peru,Unhealthy for Sensitive Groups,118
+06-06-2024,Philippines,Moderate,78
+06-06-2024,Poland,Moderate,57
+06-06-2024,Portugal,Good,40
+06-06-2024,Puerto Rico,Good,11
+06-06-2024,Reunion,Good,20
+06-06-2024,Romania,Good,30
+06-06-2024,Russia,Moderate,55
+06-06-2024,San Marino,Good,48
+06-06-2024,Senegal,Moderate,68
+06-06-2024,Serbia,Good,44
+06-06-2024,Singapore,Good,27
+06-06-2024,Slovakia,Moderate,60
+06-06-2024,Slovenia,Good,40
+06-06-2024,South Africa,Unhealthy for Sensitive Groups,120
+06-06-2024,South Korea,Unhealthy for Sensitive Groups,110
+06-06-2024,Spain,Moderate,95
+06-06-2024,Sri Lanka,Good,35
+06-06-2024,Sweden,Good,32
+06-06-2024,Switzerland,Good,34
+06-06-2024,Taiwan,Moderate,62
+06-06-2024,Tajikistan,Moderate,61
+06-06-2024,Thailand,Moderate,77
+06-06-2024,Togo,Good,50
+06-06-2024,Trinidad and Tobago,Good,32
+06-06-2024,Turkey,Moderate,96
+06-06-2024,Turkmenistan,Good,45
+06-06-2024,Uganda,Unhealthy for Sensitive Groups,136
+06-06-2024,Ukraine,Good,38
+06-06-2024,United Arab Emirates,Unhealthy for Sensitive Groups,117
+06-06-2024,United Kingdom of Great Britain and Northern Ireland,Moderate,98
+06-06-2024,United States of America,Very Unhealthy,205
+06-06-2024,Uzbekistan,Good,21
+06-06-2024,Vatican,Good,25
+06-06-2024,Venezuela,Good,10
+06-06-2024,Vietnam,Moderate,63
+06-06-2024,Zambia,Unhealthy for Sensitive Groups,140
+06-06-2024,Albania,Good,17
+06-06-2024,Algeria,Good,46
+06-06-2024,Andorra,Moderate,51
+06-06-2024,Argentina,Moderate,52
+06-06-2024,Armenia,Good,26
+06-06-2024,Australia,Good,47
+06-06-2024,Austria,Good,37
+06-06-2024,Azerbaijan,Good,49
+06-06-2024,Bahrain,Moderate,85
+06-06-2024,Bangladesh,Unhealthy for Sensitive Groups,127
+06-06-2024,Belarus,Good,28
+06-06-2024,Belgium,Moderate,71
+06-06-2024,Belize,Unhealthy for Sensitive Groups,113
+06-06-2024,Bermuda,Good,11
+06-06-2024,Bolivia,Good,49
+06-06-2024,Bosnia and Herzegovina,Good,28
+06-06-2024,Brazil,Unhealthy for Sensitive Groups,122
+06-06-2024,Brunei,Good,11
+06-06-2024,Bulgaria,Good,22
+06-06-2024,Burkina Faso,Good,2
+06-06-2024,Cambodia,Good,21
+06-06-2024,Canada,Moderate,80
+06-06-2024,Cape Verde,Very Unhealthy,266
+06-06-2024,Cayman Islands,Good,16
+06-06-2024,Chad,Unhealthy for Sensitive Groups,122
+06-06-2024,Chile,Unhealthy,157
+06-06-2024,China,Unhealthy for Sensitive Groups,135
+06-06-2024,Colombia,Moderate,71
+06-06-2024,Costa Rica,Good,14
+06-06-2024,Croatia,Good,46
+06-06-2024,Cyprus,Moderate,60
+06-06-2024,Czech Republic,Moderate,65
+06-06-2024,Denmark,Good,23
+06-06-2024,Dominican Republic,Good,13
+06-06-2024,Ecuador,Good,23
+06-06-2024,Egypt,Unhealthy,169
+06-06-2024,El Salvador,Moderate,66
+06-06-2024,Estonia,Good,24
+06-06-2024,Ethiopia,Unhealthy for Sensitive Groups,149
+06-06-2024,Finland,Good,30
+06-06-2024,France,Moderate,68
+06-06-2024,French Guiana,Good,9
+06-06-2024,Georgia,Moderate,61
+06-06-2024,Germany,Hazardous,343
+06-06-2024,Ghana,Moderate,65
+06-06-2024,Gibraltar,Good,24
+06-06-2024,Greece,Moderate,58
+06-06-2024,Grenada,Good,27
+06-06-2024,Guadeloupe,Good,33
+06-06-2024,Guatemala,Unhealthy for Sensitive Groups,130
+06-06-2024,Honduras,Moderate,87
+06-06-2024,Hong Kong,Moderate,58
+06-06-2024,Hungary,Moderate,61
+06-06-2024,Iceland,Good,20
+06-06-2024,India,Hazardous,496
+06-06-2024,Indonesia,Unhealthy for Sensitive Groups,131
+06-06-2024,Iran,Unhealthy for Sensitive Groups,108
+06-06-2024,Iraq,Moderate,93
+06-06-2024,Ireland,Good,37
+06-06-2024,Israel,Moderate,81
+06-06-2024,Italy,Moderate,62
+06-06-2024,Ivory Coast,Good,34
+06-06-2024,Japan,Moderate,86
+06-06-2024,Jersey,Good,21
+06-06-2024,Jordan,Good,39
+06-06-2024,Kazakhstan,Good,43
+06-06-2024,Kenya,Unhealthy for Sensitive Groups,146
+06-06-2024,Kosovo,Good,21
+06-06-2024,Kuwait,Unhealthy for Sensitive Groups,112
+06-06-2024,Kyrgyzstan,Unhealthy for Sensitive Groups,142
+06-06-2024,Laos,Good,46
+06-06-2024,Latvia,Good,29
+06-06-2024,Liberia,Good,38
+06-06-2024,Liechtenstein,Good,10
+06-06-2024,Lithuania,Good,45
+06-06-2024,Luxembourg,Good,30
+06-06-2024,Macao,Moderate,80
+06-06-2024,Macedonia,Good,37
+06-06-2024,Madagascar,Unhealthy for Sensitive Groups,142
+06-06-2024,Malaysia,Moderate,73
+06-06-2024,Malta,Good,43
+06-06-2024,Martinique,Moderate,51
+06-06-2024,Mexico,Unhealthy for Sensitive Groups,147
+06-06-2024,Moldova,Good,2
+06-06-2024,Monaco,Good,33
+06-06-2024,Mongolia,Good,45
+06-06-2024,Montenegro,Good,10
+06-06-2024,Myanmar,Good,40
+06-06-2024,Nepal,Moderate,62
+06-06-2024,Netherlands,Very Unhealthy,235
+06-06-2024,New Caledonia,Good,11
+06-06-2024,New Zealand,Moderate,92
+06-06-2024,Nigeria,Good,29
+06-06-2024,Norway,Good,23
+06-06-2024,Pakistan,Moderate,68
+06-06-2024,Palestinian Territory,Unhealthy for Sensitive Groups,108
+06-06-2024,Peru,Unhealthy for Sensitive Groups,118
+06-06-2024,Philippines,Moderate,78
+06-06-2024,Poland,Moderate,57
+06-06-2024,Portugal,Good,40
+06-06-2024,Puerto Rico,Good,11
+06-06-2024,Reunion,Good,20
+06-06-2024,Romania,Good,30
+06-06-2024,Russia,Moderate,55
+06-06-2024,San Marino,Good,48
+06-06-2024,Senegal,Moderate,68
+06-06-2024,Serbia,Good,44
+06-06-2024,Singapore,Good,27
+06-06-2024,Slovakia,Moderate,60
+06-06-2024,Slovenia,Good,40
+06-06-2024,South Africa,Unhealthy for Sensitive Groups,115
+06-06-2024,South Korea,Unhealthy for Sensitive Groups,110
+06-06-2024,Spain,Moderate,95
+06-06-2024,Sri Lanka,Good,35
+06-06-2024,Sweden,Good,32
+06-06-2024,Switzerland,Good,34
+06-06-2024,Taiwan,Moderate,65
+06-06-2024,Tajikistan,Moderate,61
+06-06-2024,Thailand,Moderate,77
+06-06-2024,Togo,Good,50
+06-06-2024,Trinidad and Tobago,Good,32
+06-06-2024,Turkey,Moderate,96
+06-06-2024,Turkmenistan,Good,45
+06-06-2024,Uganda,Unhealthy for Sensitive Groups,111
+06-06-2024,Ukraine,Good,38
+06-06-2024,United Arab Emirates,Unhealthy for Sensitive Groups,117
+06-06-2024,United Kingdom of Great Britain and Northern Ireland,Moderate,98
+06-06-2024,United States of America,Very Unhealthy,205
+06-06-2024,Uzbekistan,Good,21
+06-06-2024,Vatican,Good,25
+06-06-2024,Venezuela,Good,10
+06-06-2024,Vietnam,Moderate,63
+06-06-2024,Zambia,Unhealthy for Sensitive Groups,140
+13-06-2024,Albania,Good,9
+13-06-2024,Algeria,Good,38
+13-06-2024,Andorra,Good,10
+13-06-2024,Argentina,Moderate,82
+13-06-2024,Armenia,Good,43
+13-06-2024,Australia,Moderate,58
+13-06-2024,Austria,Good,19
+13-06-2024,Azerbaijan,Good,49
+13-06-2024,Bahrain,Moderate,99
+13-06-2024,Bangladesh,Unhealthy for Sensitive Groups,121
+13-06-2024,Belarus,Good,13
+13-06-2024,Belgium,Good,48
+13-06-2024,Belize,Good,40
+13-06-2024,Bermuda,Good,14
+13-06-2024,Bolivia,Moderate,67
+13-06-2024,Bosnia and Herzegovina,Good,23
+13-06-2024,Brazil,Unhealthy for Sensitive Groups,144
+13-06-2024,Brunei,Good,16
+13-06-2024,Bulgaria,Good,34
+13-06-2024,Burkina Faso,Good,1
+13-06-2024,Cambodia,Good,21
+13-06-2024,Canada,Moderate,53
+13-06-2024,Cape Verde,Moderate,55
+13-06-2024,Cayman Islands,Good,4
+13-06-2024,Chad,Moderate,93
+13-06-2024,Chile,Moderate,81
+13-06-2024,China,Unhealthy,151
+13-06-2024,Colombia,Moderate,51
+13-06-2024,Costa Rica,Good,32
+13-06-2024,Croatia,Good,20
+13-06-2024,Cyprus,Moderate,57
+13-06-2024,Czech Republic,Moderate,51
+13-06-2024,Denmark,Good,12
+13-06-2024,Dominican Republic,Good,23
+13-06-2024,Ecuador,Good,40
+13-06-2024,Egypt,Unhealthy,152
+13-06-2024,El Salvador,Good,26
+13-06-2024,Estonia,Good,17
+13-06-2024,Ethiopia,Unhealthy for Sensitive Groups,117
+13-06-2024,Finland,Good,26
+13-06-2024,France,Good,49
+13-06-2024,French Guiana,Good,11
+13-06-2024,Georgia,Good,43
+13-06-2024,Germany,Good,38
+13-06-2024,Ghana,Good,44
+13-06-2024,Gibraltar,Good,50
+13-06-2024,Greece,Moderate,69
+13-06-2024,Grenada,Good,15
+13-06-2024,Guadeloupe,Good,22
+13-06-2024,Guatemala,Moderate,58
+13-06-2024,Honduras,Moderate,90
+13-06-2024,Hong Kong,Good,46
+13-06-2024,Hungary,Good,37
+13-06-2024,Iceland,Good,9
+13-06-2024,India,Very Unhealthy,208
+13-06-2024,Indonesia,Unhealthy for Sensitive Groups,126
+13-06-2024,Iran,Unhealthy for Sensitive Groups,133
+13-06-2024,Iraq,Unhealthy for Sensitive Groups,144
+13-06-2024,Ireland,Good,27
+13-06-2024,Israel,Moderate,81
+13-06-2024,Italy,Good,50
+13-06-2024,Ivory Coast,Good,43
+13-06-2024,Japan,Moderate,79
+13-06-2024,Jersey,Good,11
+13-06-2024,Jordan,Good,38
+13-06-2024,Kazakhstan,Good,40
+13-06-2024,Kenya,Unhealthy for Sensitive Groups,109
+13-06-2024,Kosovo,Good,31
+13-06-2024,Kuwait,Unhealthy for Sensitive Groups,121
+13-06-2024,Kyrgyzstan,Good,14
+13-06-2024,Laos,Good,29
+13-06-2024,Latvia,Good,11
+13-06-2024,Liberia,Good,21
+13-06-2024,Liechtenstein,Good,16
+13-06-2024,Lithuania,Good,39
+13-06-2024,Luxembourg,Good,26
+13-06-2024,Macao,Good,50
+13-06-2024,Macedonia,Good,45
+13-06-2024,Madagascar,Moderate,95
+13-06-2024,Malaysia,Moderate,84
+13-06-2024,Malta,Good,41
+13-06-2024,Martinique,Good,37
+13-06-2024,Mexico,Moderate,97
+13-06-2024,Moldova,Good,2
+13-06-2024,Monaco,Good,27
+13-06-2024,Mongolia,Moderate,61
+13-06-2024,Montenegro,Good,25
+13-06-2024,Myanmar,Good,35
+13-06-2024,Nepal,Unhealthy for Sensitive Groups,116
+13-06-2024,Netherlands,Good,46
+13-06-2024,New Caledonia,Good,7
+13-06-2024,New Zealand,Good,37
+13-06-2024,Nigeria,Moderate,86
+13-06-2024,Norway,Good,21
+13-06-2024,Pakistan,Moderate,92
+13-06-2024,Palestinian Territory,Moderate,53
+13-06-2024,Peru,Moderate,88
+13-06-2024,Philippines,Unhealthy for Sensitive Groups,113
+13-06-2024,Poland,Moderate,58
+13-06-2024,Portugal,Good,28
+13-06-2024,Puerto Rico,Good,14
+13-06-2024,Reunion,Good,17
+13-06-2024,Romania,Good,43
+13-06-2024,Russia,Moderate,100
+13-06-2024,San Marino,Good,42
+13-06-2024,Senegal,Unhealthy,156
+13-06-2024,Serbia,Moderate,67
+13-06-2024,Singapore,Moderate,58
+13-06-2024,Slovakia,Good,28
+13-06-2024,Slovenia,Good,13
+13-06-2024,South Africa,Unhealthy for Sensitive Groups,150
+13-06-2024,South Korea,Unhealthy for Sensitive Groups,113
+13-06-2024,Spain,Moderate,60
+13-06-2024,Sri Lanka,Good,31
+13-06-2024,Sweden,Good,30
+13-06-2024,Switzerland,Good,30
+13-06-2024,Taiwan,Good,37
+13-06-2024,Tajikistan,Moderate,61
+13-06-2024,Thailand,Moderate,78
+13-06-2024,Togo,Moderate,61
+13-06-2024,Trinidad and Tobago,Good,39
+13-06-2024,Turkey,Unhealthy for Sensitive Groups,118
+13-06-2024,Turkmenistan,Moderate,52
+13-06-2024,Uganda,Unhealthy,162
+13-06-2024,Ukraine,Good,17
+13-06-2024,United Arab Emirates,Unhealthy,152
+13-06-2024,United Kingdom of Great Britain and Northern Ireland,Moderate,71
+13-06-2024,United States of America,Unhealthy for Sensitive Groups,113
+13-06-2024,Uzbekistan,Good,35
+13-06-2024,Vatican,Good,38
+13-06-2024,Venezuela,Good,23
+13-06-2024,Vietnam,Moderate,52
+13-06-2024,Zambia,Good,23
+20-06-2024,Albania,Good,10
+20-06-2024,Algeria,Good,25
+20-06-2024,Andorra,Good,45
+20-06-2024,Argentina,Good,50
+20-06-2024,Armenia,Good,43
+20-06-2024,Australia,Moderate,73
+20-06-2024,Austria,Good,50
+20-06-2024,Azerbaijan,Good,41
+20-06-2024,Bahrain,Unhealthy for Sensitive Groups,127
+20-06-2024,Bangladesh,Moderate,97
+20-06-2024,Belarus,Good,10
+20-06-2024,Belgium,Good,47
+20-06-2024,Belize,Good,21
+20-06-2024,Bermuda,Good,15
+20-06-2024,Bolivia,Good,44
+20-06-2024,Bosnia and Herzegovina,Good,43
+20-06-2024,Brazil,Unhealthy for Sensitive Groups,144
+20-06-2024,Brunei,Good,12
+20-06-2024,Bulgaria,Good,47
+20-06-2024,Cambodia,Good,12
+20-06-2024,Canada,Moderate,91
+20-06-2024,Cape Verde,Very Unhealthy,278
+20-06-2024,Cayman Islands,Good,3
+20-06-2024,Chad,Unhealthy for Sensitive Groups,119
+20-06-2024,Chile,Unhealthy,157
+20-06-2024,China,Unhealthy for Sensitive Groups,146
+20-06-2024,Colombia,Moderate,63
+20-06-2024,Costa Rica,Good,24
+20-06-2024,Croatia,Good,35
+20-06-2024,Cyprus,Moderate,64
+20-06-2024,Czech Republic,Moderate,52
+20-06-2024,Denmark,Good,21
+20-06-2024,Dominican Republic,Good,37
+20-06-2024,Ecuador,Good,44
+20-06-2024,Egypt,Unhealthy for Sensitive Groups,119
+20-06-2024,El Salvador,Good,39
+20-06-2024,Estonia,Good,19
+20-06-2024,Ethiopia,Moderate,97
+20-06-2024,Finland,Good,20
+20-06-2024,France,Unhealthy for Sensitive Groups,128
+20-06-2024,French Guiana,Good,13
+20-06-2024,Georgia,Good,38
+20-06-2024,Germany,Hazardous,382
+20-06-2024,Ghana,Moderate,70
+20-06-2024,Gibraltar,Good,19
+20-06-2024,Greece,Moderate,65
+20-06-2024,Grenada,Good,10
+20-06-2024,Guadeloupe,Good,11
+20-06-2024,Guatemala,Moderate,65
+20-06-2024,Honduras,Good,36
+20-06-2024,Hong Kong,Good,29
+20-06-2024,Hungary,Moderate,58
+20-06-2024,Iceland,Good,35
+20-06-2024,India,Hazardous,517
+20-06-2024,Indonesia,Unhealthy for Sensitive Groups,140
+20-06-2024,Iran,Unhealthy for Sensitive Groups,142
+20-06-2024,Iraq,Unhealthy for Sensitive Groups,107
+20-06-2024,Ireland,Good,25
+20-06-2024,Israel,Moderate,63
+20-06-2024,Italy,Moderate,100
+20-06-2024,Japan,Moderate,86
+20-06-2024,Jersey,Good,40
+20-06-2024,Jordan,Good,23
+20-06-2024,Kazakhstan,Moderate,62
+20-06-2024,Kenya,Moderate,75
+20-06-2024,Kosovo,Good,41
+20-06-2024,Kuwait,Unhealthy for Sensitive Groups,103
+20-06-2024,Kyrgyzstan,Good,29
+20-06-2024,Laos,Good,41
+20-06-2024,Latvia,Good,15
+20-06-2024,Liberia,Good,13
+20-06-2024,Liechtenstein,Good,40
+20-06-2024,Lithuania,Good,31
+20-06-2024,Luxembourg,Good,27
+20-06-2024,Macao,Good,28
+20-06-2024,Macedonia,Moderate,55
+20-06-2024,Madagascar,Moderate,57
+20-06-2024,Malaysia,Moderate,65
+20-06-2024,Malta,Moderate,74
+20-06-2024,Martinique,Good,15
+20-06-2024,Mexico,Unhealthy for Sensitive Groups,134
+20-06-2024,Moldova,Good,1
+20-06-2024,Monaco,Moderate,68
+20-06-2024,Mongolia,Moderate,53
+20-06-2024,Montenegro,Good,38
+20-06-2024,Myanmar,Good,42
+20-06-2024,Nepal,Moderate,68
+20-06-2024,Netherlands,Good,35
+20-06-2024,New Caledonia,Good,15
+20-06-2024,New Zealand,Good,18
+20-06-2024,Nigeria,Moderate,79
+20-06-2024,Norway,Good,19
+20-06-2024,Pakistan,Moderate,90
+20-06-2024,Palestinian Territory,Good,48
+20-06-2024,Peru,Moderate,90
+20-06-2024,Philippines,Moderate,58
+20-06-2024,Poland,Moderate,54
+20-06-2024,Portugal,Good,35
+20-06-2024,Puerto Rico,Good,14
+20-06-2024,Reunion,Good,7
+20-06-2024,Romania,Moderate,56
+20-06-2024,Russia,Moderate,69
+20-06-2024,San Marino,Good,48
+20-06-2024,Senegal,Moderate,72
+20-06-2024,Serbia,Moderate,64
+20-06-2024,Singapore,Moderate,52
+20-06-2024,Slovakia,Moderate,53
+20-06-2024,Slovenia,Good,41
+20-06-2024,South Africa,Unhealthy,152
+20-06-2024,South Korea,Unhealthy for Sensitive Groups,106
+20-06-2024,Spain,Moderate,60
+20-06-2024,Sri Lanka,Good,28
+20-06-2024,Sweden,Good,29
+20-06-2024,Switzerland,Good,43
+20-06-2024,Taiwan,Good,45
+20-06-2024,Tajikistan,Moderate,64
+20-06-2024,Thailand,Moderate,67
+20-06-2024,Togo,Moderate,84
+20-06-2024,Trinidad and Tobago,Good,25
+20-06-2024,Turkey,Moderate,78
+20-06-2024,Turkmenistan,Moderate,58
+20-06-2024,Uganda,Unhealthy for Sensitive Groups,119
+20-06-2024,Ukraine,Good,36
+20-06-2024,United Arab Emirates,Unhealthy for Sensitive Groups,130
+20-06-2024,United Kingdom of Great Britain and Northern Ireland,Moderate,92
+20-06-2024,United States of America,Hazardous,359
+20-06-2024,Uzbekistan,Good,10
+20-06-2024,Vatican,Moderate,57
+20-06-2024,Venezuela,Good,10
+20-06-2024,Vietnam,Moderate,59
+20-06-2024,Zambia,Moderate,91
+27-06-2024,Albania,Good,46
+27-06-2024,Algeria,Moderate,53
+27-06-2024,Andorra,Good,43
+27-06-2024,Argentina,Moderate,58
+27-06-2024,Armenia,Good,18
+27-06-2024,Australia,Moderate,52
+27-06-2024,Austria,Moderate,56
+27-06-2024,Azerbaijan,Good,19
+27-06-2024,Bahrain,Moderate,99
+27-06-2024,Bangladesh,Unhealthy for Sensitive Groups,102
+27-06-2024,Belarus,Good,43
+27-06-2024,Belgium,Unhealthy for Sensitive Groups,136
+27-06-2024,Belize,Good,28
+27-06-2024,Bermuda,Good,3
+27-06-2024,Bolivia,Moderate,51
+27-06-2024,Bosnia and Herzegovina,Good,44
+27-06-2024,Brazil,Unhealthy for Sensitive Groups,120
+27-06-2024,Brunei,Good,10
+27-06-2024,Bulgaria,Good,31
+27-06-2024,Burkina Faso,Good,2
+27-06-2024,Cambodia,Good,29
+27-06-2024,Canada,Moderate,52
+27-06-2024,Cape Verde,Good,42
+27-06-2024,Cayman Islands,Good,5
+27-06-2024,Chad,Moderate,72
+27-06-2024,Chile,Unhealthy,170
+27-06-2024,China,Unhealthy for Sensitive Groups,136
+27-06-2024,Colombia,Moderate,57
+27-06-2024,Costa Rica,Good,41
+27-06-2024,Croatia,Good,38
+27-06-2024,Cyprus,Moderate,73
+27-06-2024,Czech Republic,Moderate,67
+27-06-2024,Denmark,Good,36
+27-06-2024,Dominican Republic,Good,47
+27-06-2024,Ecuador,Good,43
+27-06-2024,Egypt,Moderate,99
+27-06-2024,El Salvador,Good,44
+27-06-2024,Estonia,Good,21
+27-06-2024,Ethiopia,Moderate,99
+27-06-2024,Finland,Good,44
+27-06-2024,France,Moderate,89
+27-06-2024,French Guiana,Good,9
+27-06-2024,Georgia,Good,28
+27-06-2024,Germany,Moderate,82
+27-06-2024,Ghana,Moderate,89
+27-06-2024,Gibraltar,Good,15
+27-06-2024,Greece,Moderate,55
+27-06-2024,Grenada,Good,12
+27-06-2024,Guadeloupe,Good,15
+27-06-2024,Guatemala,Moderate,51
+27-06-2024,Honduras,Good,25
+27-06-2024,Hong Kong,Good,21
+27-06-2024,Hungary,Moderate,57
+27-06-2024,Iceland,Good,15
+27-06-2024,India,Very Unhealthy,278
+27-06-2024,Indonesia,Unhealthy for Sensitive Groups,129
+27-06-2024,Iran,Very Unhealthy,248
+27-06-2024,Iraq,Unhealthy for Sensitive Groups,116
+27-06-2024,Ireland,Good,21
+27-06-2024,Israel,Moderate,59
+27-06-2024,Italy,Moderate,71
+27-06-2024,Japan,Moderate,95
+27-06-2024,Jersey,Good,41
+27-06-2024,Jordan,Good,23
+27-06-2024,Kazakhstan,Moderate,61
+27-06-2024,Kenya,Moderate,94
+27-06-2024,Kosovo,Good,27
+27-06-2024,Kuwait,Moderate,69
+27-06-2024,Kyrgyzstan,Good,19
+27-06-2024,Laos,Good,17
+27-06-2024,Latvia,Good,39
+27-06-2024,Liberia,Moderate,70
+27-06-2024,Liechtenstein,Good,9
+27-06-2024,Lithuania,Good,36
+27-06-2024,Luxembourg,Good,48
+27-06-2024,Macao,Good,30
+27-06-2024,Macedonia,Good,42
+27-06-2024,Madagascar,Good,21
+27-06-2024,Malaysia,Moderate,70
+27-06-2024,Malta,Good,24
+27-06-2024,Martinique,Good,48
+27-06-2024,Mexico,Moderate,93
+27-06-2024,Moldova,Good,2
+27-06-2024,Monaco,Good,25
+27-06-2024,Mongolia,Moderate,54
+27-06-2024,Montenegro,Good,28
+27-06-2024,Myanmar,Good,32
+27-06-2024,Nepal,Moderate,66
+27-06-2024,Netherlands,Unhealthy for Sensitive Groups,124
+27-06-2024,New Caledonia,Good,14
+27-06-2024,New Zealand,Good,22
+27-06-2024,Nigeria,Moderate,76
+27-06-2024,Norway,Good,34
+27-06-2024,Pakistan,Unhealthy for Sensitive Groups,105
+27-06-2024,Palestinian Territory,Moderate,65
+27-06-2024,Peru,Unhealthy for Sensitive Groups,104
+27-06-2024,Philippines,Good,21
+27-06-2024,Poland,Moderate,67
+27-06-2024,Portugal,Good,34
+27-06-2024,Puerto Rico,Good,25
+27-06-2024,Reunion,Good,10
+27-06-2024,Romania,Good,30
+27-06-2024,Russia,Good,49
+27-06-2024,San Marino,Good,41
+27-06-2024,Senegal,Moderate,71
+27-06-2024,Serbia,Good,48
+27-06-2024,Singapore,Moderate,55
+27-06-2024,Slovakia,Moderate,58
+27-06-2024,Slovenia,Good,21
+27-06-2024,South Africa,Unhealthy for Sensitive Groups,118
+27-06-2024,South Korea,Moderate,88
+27-06-2024,Spain,Moderate,67
+27-06-2024,Sri Lanka,Moderate,85
+27-06-2024,Sweden,Good,46
+27-06-2024,Switzerland,Good,31
+27-06-2024,Taiwan,Good,38
+27-06-2024,Tajikistan,Moderate,78
+27-06-2024,Thailand,Moderate,92
+27-06-2024,Trinidad and Tobago,Good,37
+27-06-2024,Turkey,Moderate,78
+27-06-2024,Turkmenistan,Moderate,56
+27-06-2024,Uganda,Unhealthy for Sensitive Groups,134
+27-06-2024,Ukraine,Good,36
+27-06-2024,United Arab Emirates,Unhealthy for Sensitive Groups,116
+27-06-2024,United Kingdom of Great Britain and Northern Ireland,Unhealthy for Sensitive Groups,147
+27-06-2024,United States of America,Unhealthy for Sensitive Groups,111
+27-06-2024,Uzbekistan,Good,26
+27-06-2024,Vatican,Good,21
+27-06-2024,Venezuela,Good,14
+27-06-2024,Vietnam,Moderate,67
+27-06-2024,Zambia,Moderate,59
+04-07-2024,Albania,Good,13
+04-07-2024,Algeria,Good,46
+04-07-2024,Andorra,Good,9
+04-07-2024,Argentina,Moderate,69
+04-07-2024,Armenia,Good,43
+04-07-2024,Australia,Unhealthy for Sensitive Groups,108
+04-07-2024,Austria,Good,15
+04-07-2024,Azerbaijan,Moderate,55
+04-07-2024,Bahrain,Moderate,70
+04-07-2024,Bangladesh,Unhealthy for Sensitive Groups,103
+04-07-2024,Belarus,Good,12
+04-07-2024,Belgium,Good,46
+04-07-2024,Belize,Good,46
+04-07-2024,Bermuda,Good,10
+04-07-2024,Bolivia,Moderate,82
+04-07-2024,Bosnia and Herzegovina,Good,27
+04-07-2024,Brazil,Unhealthy for Sensitive Groups,135
+04-07-2024,Brunei,Good,10
+04-07-2024,Bulgaria,Good,35
+04-07-2024,Burkina Faso,Good,1
+04-07-2024,Cambodia,Good,21
+04-07-2024,Canada,Moderate,73
+04-07-2024,Cape Verde,Good,46
+04-07-2024,Chad,Moderate,61
+04-07-2024,Chile,Very Unhealthy,222
+04-07-2024,China,Unhealthy for Sensitive Groups,150
+04-07-2024,Colombia,Moderate,56
+04-07-2024,Costa Rica,Good,12
+04-07-2024,Croatia,Good,33
+04-07-2024,Cyprus,Good,46
+04-07-2024,Czech Republic,Good,44
+04-07-2024,Denmark,Good,10
+04-07-2024,Dominican Republic,Good,36
+04-07-2024,Ecuador,Good,35
+04-07-2024,Egypt,Unhealthy,151
+04-07-2024,El Salvador,Moderate,53
+04-07-2024,Estonia,Good,13
+04-07-2024,Ethiopia,Moderate,91
+04-07-2024,Finland,Good,23
+04-07-2024,France,Good,41
+04-07-2024,French Guiana,Good,13
+04-07-2024,Georgia,Moderate,52
+04-07-2024,Germany,Moderate,66
+04-07-2024,Ghana,Moderate,91
+04-07-2024,Gibraltar,Good,30
+04-07-2024,Greece,Moderate,55
+04-07-2024,Grenada,Good,13
+04-07-2024,Guadeloupe,Good,19
+04-07-2024,Guatemala,Good,48
+04-07-2024,Honduras,Good,30
+04-07-2024,Hong Kong,Good,23
+04-07-2024,Hungary,Good,44
+04-07-2024,Iceland,Good,20
+04-07-2024,India,Hazardous,305
+04-07-2024,Indonesia,Unhealthy for Sensitive Groups,140
+04-07-2024,Iran,Unhealthy for Sensitive Groups,118
+04-07-2024,Iraq,Moderate,90
+04-07-2024,Ireland,Good,26
+04-07-2024,Israel,Moderate,57
+04-07-2024,Italy,Moderate,69
+04-07-2024,Japan,Unhealthy for Sensitive Groups,103
+04-07-2024,Jordan,Good,21
+04-07-2024,Kazakhstan,Good,42
+04-07-2024,Kenya,Moderate,74
+04-07-2024,Kosovo,Good,25
+04-07-2024,Kuwait,Moderate,89
+04-07-2024,Kyrgyzstan,Moderate,65
+04-07-2024,Laos,Good,29
+04-07-2024,Latvia,Good,15
+04-07-2024,Liberia,Moderate,51
+04-07-2024,Liechtenstein,Good,6
+04-07-2024,Lithuania,Good,16
+04-07-2024,Luxembourg,Good,16
+04-07-2024,Macao,Good,28
+04-07-2024,Macedonia,Good,40
+04-07-2024,Madagascar,Good,34
+04-07-2024,Malaysia,Moderate,71
+04-07-2024,Malta,Good,39
+04-07-2024,Martinique,Moderate,51
+04-07-2024,Mexico,Moderate,75
+04-07-2024,Moldova,Good,2
+04-07-2024,Monaco,Good,29
+04-07-2024,Mongolia,Moderate,65
+04-07-2024,Montenegro,Good,29
+04-07-2024,Myanmar,Moderate,58
+04-07-2024,Nepal,Good,34
+04-07-2024,Netherlands,Moderate,59
+04-07-2024,New Caledonia,Good,19
+04-07-2024,New Zealand,Good,21
+04-07-2024,Nigeria,Moderate,69
+04-07-2024,Norway,Good,16
+04-07-2024,Pakistan,Moderate,67
+04-07-2024,Palestinian Territory,Moderate,73
+04-07-2024,Peru,Unhealthy for Sensitive Groups,117
+04-07-2024,Philippines,Moderate,80
+04-07-2024,Poland,Moderate,57
+04-07-2024,Portugal,Good,35
+04-07-2024,Puerto Rico,Good,22
+04-07-2024,Reunion,Good,19
+04-07-2024,Romania,Good,31
+04-07-2024,Russia,Moderate,81
+04-07-2024,San Marino,Good,42
+04-07-2024,Senegal,Good,12
+04-07-2024,Serbia,Good,47
+04-07-2024,Singapore,Good,25
+04-07-2024,Slovakia,Good,41
+04-07-2024,Slovenia,Good,17
+04-07-2024,South Africa,Unhealthy for Sensitive Groups,123
+04-07-2024,South Korea,Moderate,100
+04-07-2024,Spain,Moderate,74
+04-07-2024,Sri Lanka,Moderate,67
+04-07-2024,Sweden,Good,28
+04-07-2024,Switzerland,Good,18
+04-07-2024,Taiwan,Good,43
+04-07-2024,Tajikistan,Moderate,91
+04-07-2024,Thailand,Moderate,77
+04-07-2024,Togo,Moderate,80
+04-07-2024,Trinidad and Tobago,Good,26
+04-07-2024,Turkey,Moderate,81
+04-07-2024,Turkmenistan,Moderate,56
+04-07-2024,Uganda,Unhealthy,175
+04-07-2024,Ukraine,Good,38
+04-07-2024,United Arab Emirates,Very Unhealthy,208
+04-07-2024,United Kingdom of Great Britain and Northern Ireland,Good,36
+04-07-2024,United States of America,Unhealthy,161
+04-07-2024,Uzbekistan,Good,19
+04-07-2024,Vatican,Good,38
+04-07-2024,Venezuela,Good,10
+04-07-2024,Vietnam,Good,50
+04-07-2024,Zambia,Unhealthy for Sensitive Groups,114
