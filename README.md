@@ -8,10 +8,10 @@ Time series forecasting is a crucial task in various domains such as finance, we
 # Usage
 Follow these steps to use the code in this repository:
 
-Prepare the Data: Place your time series data in the data directory or modify the Data class to read from your source.
-Train the Model: Use the LSTMTrainer class to train your LSTM model.
-Evaluate the Model: Use the provided methods to evaluate the model's performance.
-Visualize the Results: Generate plots to visualize the actual vs. predicted values.
+- Prepare the Data: Place your time series data in the data directory or modify the Data class to read from your source.
+- Train the Model: Use the LSTMTrainer class to train your LSTM model.
+- Evaluate the Model: Use the provided methods to evaluate the model's performance.
+- Visualize the Results: Generate plots to visualize the actual vs. predicted values.
 
 
 # Dataset
